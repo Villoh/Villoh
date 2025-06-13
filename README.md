@@ -1,8 +1,31 @@
 <!-- [![Header](img/db.gif "Header")](https://linkedin.com/in/mikelvillota) -->
 
-# Hey there, amigos! <img src="./img/wave.gif" width="30px" height="30px" />
+<!-- # Hey there, amigos! <img src="./img/wave.gif" width="30px" height="30px" /> -->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Villoh)
+<div align="center">
+  <h1>
+    Hey there, amigos!
+    <img src="./img/wave.gif" width="30px" height="30px"/>
+  </h1>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Villoh" alt="Visitors count" height=25/>
+</div>
+
+<div align="center">
+    <a href="https://stackoverflow.com/users/30111324/villoh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://x.com/Villoh_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mikelvillota/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+</br>
 
 ```python
 class SoftwareEngineer:
@@ -25,7 +48,7 @@ print(me.hi())
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Villoh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="147" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Villoh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="147" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Villoh&theme=dracula" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Villoh&theme=dracula" height="147" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -103,7 +126,11 @@ print(me.hi())
 ## 🔥 Top Repositories
 
 <!-- Resources -->
-<!-- snk: https://github.com/Platane/snk/tree/main-->
+<!-- snk: https://github.com/Platane/snk-->
+<!-- Spotify Github Profile: https://github.com/kittinan/spotify-github-profile-->
 <!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
 <!-- GitHub Profile Trophy: https://github.com/ryo-ma/github-profile-trophy -->
-<!--Github Readme Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<!-- Github Readme Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<!-- Github Readme Streak Stats: https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!-- Github Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
+<!-- Github Visitor Badge: https://github.com/jwenjian/visitor-badge -->
