@@ -21,7 +21,7 @@ jobs:
       - name: 📦 Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r src/get_top_followers/requirements.txt
 
       - name: 💾 Check for README changes
         id: readme_check
@@ -32,7 +32,7 @@ jobs:
           echo "::endgroup::"
 
       - name: 🧠 Update README with top followers
-        run: python src/getTopFollowers.py ${{ github.repository_owner }} ${{ secrets.GITHUB_TOKEN }} README.md
+        run: python src/get_top_followers/main.py ${{ github.repository_owner }} ${{ secrets.GITHUB_TOKEN }} README.md
 
       - name: 🔁 Compare README hash after script
         id: hash_check
