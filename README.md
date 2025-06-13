@@ -24,13 +24,18 @@ print(me.hi())
 
 ## 🏆 Github Trophies
 
-## 📑 Commit History
+## 📜 Commit History
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Villoh/Villoh/refs/heads/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Villoh/Villoh/refs/heads/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Villoh/Villoh/refs/heads/output/github-contribution-grid-snake.svg" />
 </picture>
+
+## ✨ My Followers
+
+<!--START_SECTION:top-followers-->
+<!--END_SECTION:top-followers-->
 
 <!-- Resources -->
 <!-- snk: https://github.com/Platane/snk/tree/main-->
