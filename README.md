@@ -52,6 +52,52 @@ print(me.hi())
 ## ✨ My Followers
 
 <!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/TerciodeMarte">
+        <img src="https://avatars2.githubusercontent.com/u/111312600" width="100px;" alt="TerciodeMarte"/>
+      </a>
+      <br />
+      <a href="https://github.com/TerciodeMarte">Albano Díez de Paulino</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/LuckyGenie1004">
+        <img src="https://avatars2.githubusercontent.com/u/185059310" width="100px;" alt="LuckyGenie1004"/>
+      </a>
+      <br />
+      <a href="https://github.com/LuckyGenie1004">Full-Stack Developer</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/osvitore">
+        <img src="https://avatars2.githubusercontent.com/u/91624784" width="100px;" alt="osvitore"/>
+      </a>
+      <br />
+      <a href="https://github.com/osvitore">osvitore</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/iiTzSenn">
+        <img src="https://avatars2.githubusercontent.com/u/186762799" width="100px;" alt="iiTzSenn"/>
+      </a>
+      <br />
+      <a href="https://github.com/iiTzSenn">iiTzSenn</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/THIONG">
+        <img src="https://avatars2.githubusercontent.com/u/66483326" width="100px;" alt="THIONG"/>
+      </a>
+      <br />
+      <a href="https://github.com/THIONG">THIONG</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/pkq403">
+        <img src="https://avatars2.githubusercontent.com/u/66843313" width="100px;" alt="pkq403"/>
+      </a>
+      <br />
+      <a href="https://github.com/pkq403">pkq403</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
 
 ## 🔥 Top Repositories
