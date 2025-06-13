@@ -1,3 +1,5 @@
+name: Get top followers
+
 on:
   push:
     branches:
