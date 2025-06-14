@@ -50,15 +50,18 @@ print(me.hi())
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Villoh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="147" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Villoh&theme=dracula" height="147" alt="GitHub Streak" />
 </div>
-
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Villoh&radius=16&theme=dracula&area=true" height="300" alt="activity-graph graph"  />
-</div>
+</div> -->
 
 
 ## 🏆 Github Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Villoh&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Villoh&theme=dracula&rank=SECRET,S,AAA,AA,A,B" alt="GitHub Trophies" />
+  </a>
+</div>
 
 ## 📜 Commit History
 
@@ -70,7 +73,11 @@ print(me.hi())
 
 ## 🎧 Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31iav4g6657oqojemi6docxxmyei&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31iav4g6657oqojemi6docxxmyei&redirect=true)
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31iav4g6657oqojemi6docxxmyei&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iav4g6657oqojemi6docxxmyei&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
+  </a>
+</div>
 
 ## ✨ My Followers
 
