@@ -1,25 +1,28 @@
 <!-- [![Header](img/db.gif "Header")](https://linkedin.com/in/mikelvillota) -->
 
-<img src="./img/intro.gif"/>
+<img align="center" src="./img/intro.gif"/>
 
 <!-- # Hey there, amigos! <img src="./img/wave.gif" width="30px" height="30px" /> -->
 
-<h1>
-  Hey there, amigos!
-  <img src="./img/wave.gif" width="30px" height="30px"/>
-</h1>
+<div align="center">
+  <h1>
+    Hey there, amigos!
+    <img src="./img/wave.gif" width="30px" height="30px"/>
+  </h1>
+</div>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Villoh" alt="Visitors count" height=25/>
-<a href="https://stackoverflow.com/users/30111324/villoh" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-</a>
-<a href="https://x.com/Villoh_" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</a>
-<a href="https://www.linkedin.com/in/mikelvillota/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</a>
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Villoh" alt="Visitors count" height=25/>
+  <a href="https://stackoverflow.com/users/30111324/villoh" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://x.com/Villoh_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/mikelvillota/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
 </br>
 
 ```python
@@ -38,7 +41,93 @@ print(me.hi())
 
 
 <details open>
-  <summary><h2>🔧Technologies & Tools</h2></summary>
+  <summary><h2>🛠️ Technologies & Tools</h2></summary>
+
+  <h2>🧑‍💻 Languages</h2>
+  <p align="left">
+    <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" alt="Java" /></a>
+    <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" /></a>
+    <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" /></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" alt="TypeScript" /></a>
+    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" alt="C#" /></a>
+    <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" alt="Dart" /></a>
+  </p>
+
+  <h2>⚙️ Frameworks</h2>
+  <p align="left">
+    <a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white&style=for-the-badge" alt="Spring" /></a>
+    <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" alt="FastAPI" /></a>
+    <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django" /></a>
+    <a href="https://angular.io/"><img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" alt="Angular" /></a>
+    <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" /></a>
+    <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter" /></a>
+  </p>
+
+  <h2>🗄️ DDBB</h2>
+  <p align="left">
+    <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" /></a>
+    <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL" /></a>
+    <a href="https://www.oracle.com/database/"><img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" alt="Oracle" /></a>
+    <a href="https://www.ibm.com/products/db2"><img src="https://img.shields.io/badge/IBM%20DB2-003366?logo=ibm&logoColor=white&style=for-the-badge" alt="DB2" /></a>
+    <a href="https://www.microsoft.com/en-us/sql-server/"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" alt="SQL Server" /></a>
+    <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB" /></a>
+    <a href="https://cassandra.apache.org/"><img src="https://img.shields.io/badge/Cassandra-1287B1?logo=apachecassandra&logoColor=white&style=for-the-badge" alt="Cassandra" /></a>
+  </p>
+
+
+  <h2>☁️ Cloud</h2>
+  <p align="left">
+    <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS" /></a>
+    <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white&style=for-the-badge" alt="Azure" /></a>
+    <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift"><img src="https://img.shields.io/badge/OpenShift-EE0000?logo=redhat&logoColor=white&style=for-the-badge" alt="OpenShift" /></a>
+  </p>
+
+  <h2>📬 Message Brokers / Caché</h2>
+  <p align="left">
+    <a href="https://kafka.apache.org/"><img src="https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge" alt="Kafka" /></a>
+    <a href="https://www.rabbitmq.com/"><img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge" alt="RabbitMQ" /></a>
+    <a href="https://aws.amazon.com/sqs/"><img src="https://img.shields.io/badge/Amazon%20SQS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" alt="Amazon SQS" /></a>
+    <a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" alt="Redis" /></a>
+  </p>
+
+  <h2>🧪 Testing</h2>
+  <p align="left">
+    <a href="https://junit.org/"><img src="https://img.shields.io/badge/JUnit-25A162?logo=java&logoColor=white&style=for-the-badge" alt="JUnit" /></a>
+    <a href="https://docs.pytest.org/"><img src="https://img.shields.io/badge/PyTest-0A9EDC?logo=python&logoColor=white&style=for-the-badge" alt="PyTest" /></a>
+    <a href="https://site.mockito.org/"><img src="https://img.shields.io/badge/Mockito-4CAF50?logo=java&logoColor=white&style=for-the-badge" alt="Mockito" /></a>
+    <a href="http://wiremock.org/"><img src="https://img.shields.io/badge/WireMock-6E4AFF?logo=java&logoColor=white&style=for-the-badge" alt="WireMock" /></a>
+    <a href="https://cucumber.io/"><img src="https://img.shields.io/badge/Cucumber-23D96C?logo=cucumber&logoColor=white&style=for-the-badge" alt="Cucumber" /></a>
+    <a href="https://spockframework.org/"><img src="https://img.shields.io/badge/Spock-7552CC?logo=groovy&logoColor=white&style=for-the-badge" alt="Spock" /></a>
+  </p>
+
+  <h2>🚀 CI/CD</h2>
+  <p align="left">
+    <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" alt="Jenkins" /></a>
+    <a href="https://docs.gitlab.com/ee/ci/"><img src="https://img.shields.io/badge/Gitlab%20Pipelines-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge" alt="GitLab Pipelines" /></a>
+    <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge" alt="GitHub Actions" /></a>
+  </p>
+
+  <h2>🧰 Others</h2>
+  <p align="left">
+    <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" alt="Git" /></a>
+    <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker" /></a>
+    <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="Kubernetes" /></a>
+    <a href="https://www.sonarsource.com/products/sonarqube/"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=for-the-badge" alt="SonarQube" /></a>
+    <a href="https://www.microfocus.com/en-us/cyberres/application-security/fortify"><img src="https://img.shields.io/badge/Fortify-002B5C?style=for-the-badge" alt="Fortify" /></a>
+    <a href="https://cloud.google.com/apigee"><img src="https://img.shields.io/badge/Apigee-EA7E00?style=for-the-badge" alt="Apigee" /></a>
+    <a href="https://www.ibm.com/products/api-connect"><img src="https://img.shields.io/badge/API%20Management-0052CC?style=for-the-badge" alt="API Management" /></a>
+    <a href="https://en.wikipedia.org/wiki/Domain-driven_design"><img src="https://img.shields.io/badge/DDD-0A0A0A?style=for-the-badge" alt="DDD" /></a>
+    <a href="https://en.wikipedia.org/wiki/Test-driven_development"><img src="https://img.shields.io/badge/TDD-9900EF?style=for-the-badge" alt="TDD" /></a>
+    <a href="https://en.wikipedia.org/wiki/SOLID"><img src="https://img.shields.io/badge/SOLID-F1C40F?style=for-the-badge" alt="SOLID" /></a>
+    <a href="https://alistair.cockburn.us/hexagonal-architecture/"><img src="https://img.shields.io/badge/Hexagonal%20Architecture-7F8C8D?style=for-the-badge" alt="Hexagonal Architecture" /></a>
+    <a href="https://grpc.io/"><img src="https://img.shields.io/badge/gRPC-4285F4?logo=grpc&logoColor=white&style=for-the-badge" alt="gRPC" /></a>
+    <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" alt="Grafana" /></a>
+    <a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white&style=for-the-badge" alt="Spark" /></a>
+    <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=for-the-badge" alt="Prometheus" /></a>
+    <a href="https://www.jooq.org/"><img src="https://img.shields.io/badge/JOOQ-D81F26?style=for-the-badge" alt="JOOQ" /></a>
+    <a href="https://flywaydb.org/"><img src="https://img.shields.io/badge/Flyway-CC0000?style=for-the-badge" alt="Flyway" /></a>
+  </p>
 </details>
 
 <details open>
