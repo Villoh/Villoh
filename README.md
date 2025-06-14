@@ -41,18 +41,46 @@ me  = SoftwareEngineer()
 print(me.hi())
 ```
 
-## 🔧Technologies & Tools
+## 
+<details open>
+  <summary><h2>🔧Technologies & Tools</h2></summary>
+</details>
 
-## 📈 GitHub Stats
+<details> 
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Villoh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="147" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Villoh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="147" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Villoh&theme=dracula" height="147" alt="GitHub Streak" />
-</div>
-<!-- <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Villoh&radius=16&theme=dracula&area=true" height="300" alt="activity-graph graph"  />
-</div> -->
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Villoh's streak" src="https://streak-stats.demolab.com?user=Villoh&theme=dracula"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+
+  <!-- https://github.com/anuraghazra/github-readme-stats -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Villoh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Villoh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Villoh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Villoh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Villoh&radius=16&theme=dracula&area=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
+
+  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+
+</details>
 
 
 ## 🏆 Github Trophies
