@@ -137,7 +137,7 @@ print(me.hi())
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=VHub-API&theme=dracula&show_owner=true" alt="VHub-API Repo Card" />
   </a>
   <a href="https://github.com/Villoh/caixabank-coding-challenges-round-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=caixabank-coding-challenges-round-3&theme=dracula&show_owner=true" alt="caixabank-coding-challenges-round-3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=caixabank-coding-challenges-round-3&theme=dracula&show_owner=true" height="120" alt="caixabank-coding-challenges-round-3" />
   </a>
   <a href="https://github.com/Villoh/inditex-backend-java-logisticode">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=inditex-backend-java-logisticode&theme=dracula&show_owner=true" alt="inditex-backend-java-logisticode" />
