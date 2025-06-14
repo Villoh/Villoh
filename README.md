@@ -79,58 +79,76 @@ print(me.hi())
   </a>
 </div>
 
-## ✨ My Followers
+<details> 
+  <summary><h2>✨ My Followers</h2></summary>
+  <!--START_SECTION:top-followers-->
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/TerciodeMarte">
+          <img src="https://avatars2.githubusercontent.com/u/111312600" width="100px;" alt="TerciodeMarte"/>
+        </a>
+        <br />
+        <a href="https://github.com/TerciodeMarte">Albano Díez de Paulino</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/LuckyGenie1004">
+          <img src="https://avatars2.githubusercontent.com/u/185059310" width="100px;" alt="LuckyGenie1004"/>
+        </a>
+        <br />
+        <a href="https://github.com/LuckyGenie1004">Full-Stack Developer</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/osvitore">
+          <img src="https://avatars2.githubusercontent.com/u/91624784" width="100px;" alt="osvitore"/>
+        </a>
+        <br />
+        <a href="https://github.com/osvitore">osvitore</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/iiTzSenn">
+          <img src="https://avatars2.githubusercontent.com/u/186762799" width="100px;" alt="iiTzSenn"/>
+        </a>
+        <br />
+        <a href="https://github.com/iiTzSenn">iiTzSenn</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/THIONG">
+          <img src="https://avatars2.githubusercontent.com/u/66483326" width="100px;" alt="THIONG"/>
+        </a>
+        <br />
+        <a href="https://github.com/THIONG">THIONG</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/pkq403">
+          <img src="https://avatars2.githubusercontent.com/u/66843313" width="100px;" alt="pkq403"/>
+        </a>
+        <br />
+        <a href="https://github.com/pkq403">pkq403</a>
+      </td>
+    </tr>
+  </table>
+  <!--END_SECTION:top-followers-->
+</details>
 
-<!--START_SECTION:top-followers-->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/TerciodeMarte">
-        <img src="https://avatars2.githubusercontent.com/u/111312600" width="100px;" alt="TerciodeMarte"/>
-      </a>
-      <br />
-      <a href="https://github.com/TerciodeMarte">Albano Díez de Paulino</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/LuckyGenie1004">
-        <img src="https://avatars2.githubusercontent.com/u/185059310" width="100px;" alt="LuckyGenie1004"/>
-      </a>
-      <br />
-      <a href="https://github.com/LuckyGenie1004">Full-Stack Developer</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/osvitore">
-        <img src="https://avatars2.githubusercontent.com/u/91624784" width="100px;" alt="osvitore"/>
-      </a>
-      <br />
-      <a href="https://github.com/osvitore">osvitore</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/iiTzSenn">
-        <img src="https://avatars2.githubusercontent.com/u/186762799" width="100px;" alt="iiTzSenn"/>
-      </a>
-      <br />
-      <a href="https://github.com/iiTzSenn">iiTzSenn</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/THIONG">
-        <img src="https://avatars2.githubusercontent.com/u/66483326" width="100px;" alt="THIONG"/>
-      </a>
-      <br />
-      <a href="https://github.com/THIONG">THIONG</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/pkq403">
-        <img src="https://avatars2.githubusercontent.com/u/66843313" width="100px;" alt="pkq403"/>
-      </a>
-      <br />
-      <a href="https://github.com/pkq403">pkq403</a>
-    </td>
-  </tr>
-</table>
-<!--END_SECTION:top-followers-->
+<details> 
+  <summary><h2>🔥 Top Repositories</h2></summary>
+  <a href="https://github.com/Villoh/VHub-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=VHub-API&theme=dracula&show_owner=true" alt="VHub-API Repo Card" />
+  </a>
+  <a href="https://github.com/Villoh/caixabank-coding-challenges-round-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=caixabank-coding-challenges-round-3&theme=dracula&show_owner=true" alt="caixabank-coding-challenges-round-3" />
+  </a>
+  <a href="https://github.com/Villoh/inditex-backend-java-logisticode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=inditex-backend-java-logisticode&theme=dracula&show_owner=true" alt="inditex-backend-java-logisticode" />
+  </a>
+  <a href="https://github.com/Villoh/Cubik-Jump">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=Cubik-Jump&theme=dracula&show_owner=true" alt="Cubik-Jump" />
+  </a>
+</div>
 
-## 🔥 Top Repositories
+
+</details>
 
 <!-- Resources -->
 <!-- snk: https://github.com/Platane/snk-->
@@ -140,4 +158,4 @@ print(me.hi())
 <!-- Github Readme Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <!-- Github Readme Streak Stats: https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- Github Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Github Visitor Badge: https://github.com/jwenjian/visitor-badge -->
+<!-- Github Visitor Badge: https://github.com/hehuapei/visitor-badge -->
