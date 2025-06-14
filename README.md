@@ -1,6 +1,6 @@
 <!-- [![Header](img/db.gif "Header")](https://linkedin.com/in/mikelvillota) -->
 
-<img src="./img/chill.gif"/>
+<img src="./img/github-header-image.png"/>
 
 <!-- # Hey there, amigos! <img src="./img/wave.gif" width="30px" height="30px" /> -->
 
