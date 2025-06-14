@@ -5,12 +5,17 @@ on:
     - cron: "0 8 * * *" # Every day at 08:00 UTC
   workflow_dispatch:
 
+  # run on every push on the master branch
+  push:
+    branches:
+    - main
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Villoh/github-activity-readme@commit-username-and-email
+      - uses: Villoh/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

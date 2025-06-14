@@ -55,7 +55,7 @@ print(me.hi())
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Villoh's streak" src="https://streak-stats.demolab.com?user=Villoh&theme=dracula"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Villoh's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=DenverCoder1&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
@@ -64,15 +64,15 @@ print(me.hi())
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Villoh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Villoh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Villoh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Villoh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Villoh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Villoh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Villoh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villoh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Villoh&radius=16&theme=dracula&area=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Villoh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Villoh&radius=16&theme=dracula&area=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
 
