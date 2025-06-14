@@ -1,5 +1,7 @@
 <!-- [![Header](img/db.gif "Header")](https://linkedin.com/in/mikelvillota) -->
 
+<img src="./img/chill.gif"/>
+
 <!-- # Hey there, amigos! <img src="./img/wave.gif" width="30px" height="30px" /> -->
 
 <div align="center">
@@ -41,9 +43,36 @@ me  = SoftwareEngineer()
 print(me.hi())
 ```
 
-## 
+
 <details open>
   <summary><h2>🔧Technologies & Tools</h2></summary>
+</details>
+
+<details open>
+  <summary><h2>🏆 Github Trophies</h2></summary>
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=Villoh&theme=dracula&rank=SECRET,S,AAA,AA,A,B" alt="GitHub Trophies" />
+    </a>
+  </div>
+</details>
+
+<details open>
+  <summary><h2>📜 Commit History</h2></summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Villoh/Villoh/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Villoh/Villoh/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Villoh/Villoh/refs/heads/output/github-contribution-grid-snake.svg" />
+  </picture>
+</details>
+
+<details open>
+  <summary><h2>🎧 Spotify Playing</h2></summary>
+  <div align="center">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31iav4g6657oqojemi6docxxmyei&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iav4g6657oqojemi6docxxmyei&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
+    </a>
+  </div>
 </details>
 
 <details> 
@@ -79,33 +108,7 @@ print(me.hi())
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
   <!--END_SECTION:activity-->
-
 </details>
-
-
-## 🏆 Github Trophies
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Villoh&theme=dracula&rank=SECRET,S,AAA,AA,A,B" alt="GitHub Trophies" />
-  </a>
-</div>
-
-## 📜 Commit History
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Villoh/Villoh/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Villoh/Villoh/refs/heads/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Villoh/Villoh/refs/heads/output/github-contribution-grid-snake.svg" />
-</picture>
-
-## 🎧 Spotify Playing
-
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31iav4g6657oqojemi6docxxmyei&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iav4g6657oqojemi6docxxmyei&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
-  </a>
-</div>
 
 <details> 
   <summary><h2>✨ My Followers</h2></summary>
@@ -162,16 +165,16 @@ print(me.hi())
 <details> 
   <summary><h2>🔥 Top Repositories</h2></summary>
   <a href="https://github.com/Villoh/VHub-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=VHub-API&theme=dracula&show_owner=true" alt="VHub-API Repo Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=VHub-API&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_owner=true" alt="VHub-API Repo Card" />
   </a>
   <a href="https://github.com/Villoh/caixabank-coding-challenges-round-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=caixabank-coding-challenges-round-3&theme=dracula&show_owner=true" height="120" alt="caixabank-coding-challenges-round-3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=caixabank-coding-challenges-round-3&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_owner=true" height="120" alt="caixabank-coding-challenges-round-3" />
   </a>
   <a href="https://github.com/Villoh/inditex-backend-java-logisticode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=inditex-backend-java-logisticode&theme=dracula&show_owner=true" alt="inditex-backend-java-logisticode" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=inditex-backend-java-logisticode&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_owner=true" alt="inditex-backend-java-logisticode" />
   </a>
   <a href="https://github.com/Villoh/Cubik-Jump">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=Cubik-Jump&theme=dracula&show_owner=true" alt="Cubik-Jump" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=Cubik-Jump&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_owner=true" alt="Cubik-Jump" />
   </a>
 </div>
 
