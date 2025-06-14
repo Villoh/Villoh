@@ -4,28 +4,21 @@
 
 <!-- # Hey there, amigos! <img src="./img/wave.gif" width="30px" height="30px" /> -->
 
-<div align="center">
-  <h1>
-    Hey there, amigos!
-    <img src="./img/wave.gif" width="30px" height="30px"/>
-  </h1>
-</div>
+<h1>
+  Hey there, amigos!
+  <img src="./img/wave.gif" width="30px" height="30px"/>
+</h1>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Villoh" alt="Visitors count" height=25/>
-</div>
-
-<div align="center">
-    <a href="https://stackoverflow.com/users/30111324/villoh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://x.com/Villoh_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mikelvillota/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Villoh" alt="Visitors count" height=25/>
+<a href="https://stackoverflow.com/users/30111324/villoh" target="_blank">
+<img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
+</a>
+<a href="https://x.com/Villoh_" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</a>
+<a href="https://www.linkedin.com/in/mikelvillota/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+</a>
 
 </br>
 
@@ -68,11 +61,9 @@ print(me.hi())
 
 <details open>
   <summary><h2>🎧 Spotify Playing</h2></summary>
-  <div align="center">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31iav4g6657oqojemi6docxxmyei&redirect=true">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iav4g6657oqojemi6docxxmyei&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
-    </a>
-  </div>
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31iav4g6657oqojemi6docxxmyei&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iav4g6657oqojemi6docxxmyei&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
+  </a>
 </details>
 
 <details> 
@@ -113,53 +104,53 @@ print(me.hi())
 <details> 
   <summary><h2>✨ My Followers</h2></summary>
   <!--START_SECTION:top-followers-->
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/TerciodeMarte">
-        <img src="https://avatars2.githubusercontent.com/u/111312600" width="100px;" alt="TerciodeMarte"/>
-      </a>
-      <br />
-      <a href="https://github.com/TerciodeMarte">Albano Díez de Paulino</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/LuckyGenie1004">
-        <img src="https://avatars2.githubusercontent.com/u/185059310" width="100px;" alt="LuckyGenie1004"/>
-      </a>
-      <br />
-      <a href="https://github.com/LuckyGenie1004">Full-Stack Developer</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/osvitore">
-        <img src="https://avatars2.githubusercontent.com/u/91624784" width="100px;" alt="osvitore"/>
-      </a>
-      <br />
-      <a href="https://github.com/osvitore">osvitore</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/iiTzSenn">
-        <img src="https://avatars2.githubusercontent.com/u/186762799" width="100px;" alt="iiTzSenn"/>
-      </a>
-      <br />
-      <a href="https://github.com/iiTzSenn">iiTzSenn</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/THIONG">
-        <img src="https://avatars2.githubusercontent.com/u/66483326" width="100px;" alt="THIONG"/>
-      </a>
-      <br />
-      <a href="https://github.com/THIONG">THIONG</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/pkq403">
-        <img src="https://avatars2.githubusercontent.com/u/66843313" width="100px;" alt="pkq403"/>
-      </a>
-      <br />
-      <a href="https://github.com/pkq403">pkq403</a>
-    </td>
-  </tr>
-</table>
-<!--END_SECTION:top-followers-->
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/TerciodeMarte">
+          <img src="https://avatars2.githubusercontent.com/u/111312600" width="100px;" alt="TerciodeMarte"/>
+        </a>
+        <br />
+        <a href="https://github.com/TerciodeMarte">Albano Díez de Paulino</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/LuckyGenie1004">
+          <img src="https://avatars2.githubusercontent.com/u/185059310" width="100px;" alt="LuckyGenie1004"/>
+        </a>
+        <br />
+        <a href="https://github.com/LuckyGenie1004">Full-Stack Developer</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/osvitore">
+          <img src="https://avatars2.githubusercontent.com/u/91624784" width="100px;" alt="osvitore"/>
+        </a>
+        <br />
+        <a href="https://github.com/osvitore">osvitore</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/iiTzSenn">
+          <img src="https://avatars2.githubusercontent.com/u/186762799" width="100px;" alt="iiTzSenn"/>
+        </a>
+        <br />
+        <a href="https://github.com/iiTzSenn">iiTzSenn</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/THIONG">
+          <img src="https://avatars2.githubusercontent.com/u/66483326" width="100px;" alt="THIONG"/>
+        </a>
+        <br />
+        <a href="https://github.com/THIONG">THIONG</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/pkq403">
+          <img src="https://avatars2.githubusercontent.com/u/66843313" width="100px;" alt="pkq403"/>
+        </a>
+        <br />
+        <a href="https://github.com/pkq403">pkq403</a>
+      </td>
+    </tr>
+  </table>
+  <!--END_SECTION:top-followers-->
 </details>
 
 <details> 
@@ -177,8 +168,6 @@ print(me.hi())
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=Cubik-Jump&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_owner=true" alt="Cubik-Jump" />
   </a>
 </div>
-
-
 </details>
 
 <!-- Resources -->
