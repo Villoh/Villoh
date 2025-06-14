@@ -1,15 +1,19 @@
 <!-- [![Header](img/db.gif "Header")](https://linkedin.com/in/mikelvillota) -->
 
-<img align="center" src="./img/intro.gif"/>
+<div align="center">
+  <img src="./img/intro.gif"/>
+</div>
+
+</br>
 
 <!-- # Hey there, amigos! <img src="./img/wave.gif" width="30px" height="30px" /> -->
 
-<div align="center">
+<!-- <div align="center">
   <h1>
     Hey there, amigos!
     <img src="./img/wave.gif" width="30px" height="30px"/>
   </h1>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Villoh" alt="Visitors count" height=25/>
