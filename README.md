@@ -16,15 +16,15 @@
 </div> -->
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Villoh" alt="Visitors count" height=25/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Villoh" alt="Visitors count"/>
   <a href="https://stackoverflow.com/users/30111324/villoh" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=flat-square" height="25" alt="stackoverflow logo"  />
+  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=flat-square" alt="stackoverflow logo"  />
   </a>
   <a href="https://x.com/Villoh_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat-square" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat-square" alt="twitter logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mikelvillota/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat-square" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat-square" alt="linkedin logo"  />
   </a>
 </div>
 </br>
@@ -34,13 +34,22 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Mikel Villota"
         self.role = "Software Engineer"
+        self.experience_years = 3
         self.languages_spoken = ["es_ES", "en_US"]
+        self.description = (
+            "I'm a passionate Software Engineer with over 3 years of professional experience — but my journey started much earlier."
+            "I began working with software at the age of 14, driven by curiosity and a love for building things."
+            "I specialize in backend development using Java, Spring, and Python, with a strong focus on clean architecture, scalable systems, and microservices"
+            "I enjoy crafting reliable APIs, automating workflows, and working with tools like Kubernetes, Kafka, and CI/CD pipelines."
+        )
+
 
     def hi(self):
         return "Hey there! Thanks for stopping by — feel free to explore my work and reach out!"
 
 me  = SoftwareEngineer()
 print(me.hi())
+print(me.description)
 ```
 
 
@@ -112,6 +121,49 @@ print(me.hi())
     <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square" alt="GitHub Actions" /></a>
   </p>
 
+  <h2>🔌 Communication & APIs</h2>
+  <p align="left">
+    <a href="https://grpc.io/">
+      <img src="https://img.shields.io/badge/gRPC-4285F4?logo=grpc&logoColor=white&style=flat-square" alt="gRPC" />
+    </a>
+    <a href="https://restfulapi.net/">
+      <img src="https://img.shields.io/badge/REST%20API-0052CC?style=flat-square" alt="REST API" />
+    </a>
+    <a href="https://graphql.org/">
+      <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square" alt="GraphQL" />
+    </a>
+  </p>
+
+
+  <h2>🏗️ Architecture & Methodologies</h2>
+  <p align="left">
+    <a href="https://en.wikipedia.org/wiki/Domain-driven_design">
+      <img src="https://img.shields.io/badge/DDD-0A0A0A?style=flat-square" alt="DDD" />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Test-driven_development">
+      <img src="https://img.shields.io/badge/TDD-9900EF?style=flat-square" alt="TDD" />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/SOLID">
+      <img src="https://img.shields.io/badge/SOLID-F1C40F?style=flat-square" alt="SOLID Principles" />
+    </a>
+    <a href="https://alistair.cockburn.us/hexagonal-architecture/">
+      <img src="https://img.shields.io/badge/Hexagonal%20Architecture-7F8C8D?style=flat-square" alt="Hexagonal Architecture" />
+    </a>
+      <a href="https://microservices.io/">
+    <img src="https://img.shields.io/badge/Microservices-4B8BBE?style=flat-square" alt="Microservices" />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Monolithic_application">
+      <img src="https://img.shields.io/badge/Monolith-AAAAAA?style=flat-square" alt="Monolith" />
+    </a>
+      <a href="https://en.wikipedia.org/wiki/Event-driven_architecture">
+    <img src="https://img.shields.io/badge/Event--Driven-9B59B6?style=for-the-badge" alt="Event-Driven Architecture" />
+    </a>
+    <a href="https://martinfowler.com/articles/serverless.html">
+      <img src="https://img.shields.io/badge/Serverless-FE7A16?style=for-the-badge" alt="Serverless" />
+    </a>
+  </p>
+
+
   <h3>🧰 Others</h3>
   <p align="left">
     <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" /></a>
@@ -121,11 +173,6 @@ print(me.hi())
     <a href="https://www.microfocus.com/en-us/cyberres/application-security/fortify"><img src="https://img.shields.io/badge/Fortify-002B5C?style=flat-square" alt="Fortify" /></a>
     <a href="https://cloud.google.com/apigee"><img src="https://img.shields.io/badge/Apigee-EA7E00?style=flat-square" alt="Apigee" /></a>
     <a href="https://www.ibm.com/products/api-connect"><img src="https://img.shields.io/badge/API%20Management-0052CC?style=flat-square" alt="API Management" /></a>
-    <a href="https://en.wikipedia.org/wiki/Domain-driven_design"><img src="https://img.shields.io/badge/DDD-0A0A0A?style=flat-square" alt="DDD" /></a>
-    <a href="https://en.wikipedia.org/wiki/Test-driven_development"><img src="https://img.shields.io/badge/TDD-9900EF?style=flat-square" alt="TDD" /></a>
-    <a href="https://en.wikipedia.org/wiki/SOLID"><img src="https://img.shields.io/badge/SOLID-F1C40F?style=flat-square" alt="SOLID" /></a>
-    <a href="https://alistair.cockburn.us/hexagonal-architecture/"><img src="https://img.shields.io/badge/Hexagonal%20Architecture-7F8C8D?style=flat-square" alt="Hexagonal Architecture" /></a>
-    <a href="https://grpc.io/"><img src="https://img.shields.io/badge/gRPC-4285F4?logo=grpc&logoColor=white&style=flat-square" alt="gRPC" /></a>
     <a href="https://grafana.com/"><img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" alt="Grafana" /></a>
     <a href="https://spark.apache.org/"><img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white&style=flat-square" alt="Spark" /></a>
     <a href="https://prometheus.io/"><img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square" alt="Prometheus" /></a>
@@ -192,7 +239,7 @@ print(me.hi())
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Villoh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DenverCoder1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Villoh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Villoh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
 
@@ -279,3 +326,4 @@ print(me.hi())
 <!-- Github Readme Streak Stats: https://github.com/DenverCoder1/github-readme-streak-stats -->
 <!-- Github Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Github Visitor Badge: https://github.com/hehuapei/visitor-badge -->
+<!-- Shields: https://github.com/badges/shields -->
