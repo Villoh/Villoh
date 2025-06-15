@@ -156,10 +156,10 @@ print(me.description)
       <img src="https://img.shields.io/badge/Monolith-AAAAAA?style=flat-square" alt="Monolith" />
     </a>
       <a href="https://en.wikipedia.org/wiki/Event-driven_architecture">
-    <img src="https://img.shields.io/badge/Event--Driven-9B59B6?style=for-the-badge" alt="Event-Driven Architecture" />
+    <img src="https://img.shields.io/badge/Event--Driven-9B59B6?style=flat-square" alt="Event-Driven Architecture" />
     </a>
     <a href="https://martinfowler.com/articles/serverless.html">
-      <img src="https://img.shields.io/badge/Serverless-FE7A16?style=for-the-badge" alt="Serverless" />
+      <img src="https://img.shields.io/badge/Serverless-FE7A16?style=flat-square" alt="Serverless" />
     </a>
   </p>
 
