@@ -29,6 +29,46 @@
 </div>
 </br>
 
+
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 32px;">
+
+  <div style="flex: 1; min-width: 300px;">
+  
+  ```python
+  class SoftwareEngineer:
+      def __init__(self):
+          self.name = "Mikel Villota"
+          self.role = "Software Engineer"
+          self.years = 25
+          self.experience_years = 3
+          self.languages_spoken = ["es_ES", "en_US"]
+          self.favourite_langs = ["Java", "Python"]
+          self.description = """
+          I'm a passionate Software Engineer with over 3 years of professional experience,
+          but my journey started much earlier.
+          I began working with software at the age of 14, 
+          driven by curiosity and a love for building things.
+          I specialize in backend development using Java, Spring, and Python, 
+          with a strong focus on clean architecture, scalable systems, and microservices.
+          I enjoy crafting reliable APIs, automating workflows, 
+          and working with tools like Kubernetes, Kafka, and CI/CD pipelines.
+          """
+
+      def hi(self):
+          return "Hey there! Thanks for stopping by — feel free to explore my work and reach out!"
+
+  me  = SoftwareEngineer()
+  print(me.hi())
+  print(me.description)
+  ```
+  </div>
+
+  <div style="flex: 1; min-width: 200px;">
+    <img src='https://octodex.github.com/images/spidertocat.png' width='100%' style="max-width: 220px; min-width: 120px;">
+  </div>
+
+</div>
+
 ```python
 class SoftwareEngineer:
     def __init__(self):
