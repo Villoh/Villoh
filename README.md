@@ -92,10 +92,10 @@ print(me.description)
   <h4>📦 Package & DB Tools</h4>
   <p align="left">
     <a href="https://www.jooq.org/" target="_blank">
-      <img src="https://img.shields.io/badge/JOOQ-D81F26?style=flat-square" alt="JOOQ" />
+    <img src="https://img.shields.io/badge/JOOQ-D81F26?style=flat-square" alt="JOOQ" />
     </a>
     <a href="https://flywaydb.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Flyway-CC0000?style=flat-square" alt="Flyway" />
+    <img src="https://img.shields.io/badge/Flyway-CC0000?style=flat-square" alt="Flyway" />
     </a>
     <a href="https://alembic.sqlalchemy.org/" target="_blank">
       <img src="https://img.shields.io/badge/Alembic-4B8BBE?style=flat-square" alt="Alembic" />
