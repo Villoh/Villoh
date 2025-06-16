@@ -16,7 +16,7 @@
 </div> -->
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Villoh" alt="Visitors count"/>
+  <img src="https://visitor-badge.laobi.icu/badge?left_text=Profile views&page_id=Villoh&right_color=red" alt="Visitors count"/>
   <a href="https://stackoverflow.com/users/30111324/villoh" target="_blank"><img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=flat-square" alt="stackoverflow logo"  /></a>
   <a href="https://x.com/Villoh_" target="_blank"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat-square" alt="twitter logo"  /></a>
   <a href="https://www.linkedin.com/in/mikelvillota/" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat-square" alt="linkedin logo"  /></a>
