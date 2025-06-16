@@ -34,15 +34,20 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Mikel Villota"
         self.role = "Software Engineer"
+        self.years = 25
         self.experience_years = 3
         self.languages_spoken = ["es_ES", "en_US"]
-        self.description = (
-            "I'm a passionate Software Engineer with over 3 years of professional experience — but my journey started much earlier."
-            "I began working with software at the age of 14, driven by curiosity and a love for building things."
-            "I specialize in backend development using Java, Spring, and Python, with a strong focus on clean architecture, scalable systems, and microservices"
-            "I enjoy crafting reliable APIs, automating workflows, and working with tools like Kubernetes, Kafka, and CI/CD pipelines."
-        )
-
+        self.favourite_langs = ["Java", "Python"]
+        self.description = """
+        I'm a passionate Software Engineer with over 3 years of professional experience,
+        but my journey started much earlier.
+        I began working with software at the age of 14, 
+        driven by curiosity and a love for building things.
+        I specialize in backend development using Java, Spring, and Python, 
+        with a strong focus on clean architecture, scalable systems, and microservices.
+        I enjoy crafting reliable APIs, automating workflows, 
+        and working with tools like Kubernetes, Kafka, and CI/CD pipelines.
+        """
 
     def hi(self):
         return "Hey there! Thanks for stopping by — feel free to explore my work and reach out!"
@@ -60,6 +65,7 @@ print(me.description)
   <p align="left">
     <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" alt="Java" /></a>
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" /></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat-square" alt="C" /></a>
     <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square" alt="Kotlin" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="JavaScript" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" /></a>
