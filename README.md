@@ -93,27 +93,13 @@ print(me.description)
   <p align="left">
     <a href="https://www.jooq.org/" target="_blank"><img src="https://img.shields.io/badge/JOOQ-D81F26?style=flat-square" alt="JOOQ" /></a>
     <a href="https://flywaydb.org/" target="_blank"><img src="https://img.shields.io/badge/Flyway-CC0000?style=flat-square" alt="Flyway" /></a>
-    <a href="https://alembic.sqlalchemy.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Alembic-4B8BBE?style=flat-square" alt="Alembic" />
-    </a>
-    <a href="https://www.prisma.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square" alt="Prisma" />
-    </a>
-    <a href="https://dbeaver.io/" target="_blank">
-      <img src="https://img.shields.io/badge/DBeaver-372923?style=flat-square" alt="DBeaver" />
-    </a>
-    <a href="https://www.dbvis.com/" target="_blank">
-      <img src="https://img.shields.io/badge/DbVisualizer-3984C6?style=flat-square" alt="DbVisualizer" />
-    </a>
-    <a href="https://www.pgadmin.org/" target="_blank">
-      <img src="https://img.shields.io/badge/pgAdmin-008BB9?style=flat-square" alt="pgAdmin" />
-    </a>
-    <a href="https://hibernate.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=flat-square" alt="Hibernate" />
-    </a>
-    <a href="https://www.sqlalchemy.org/" target="_blank">
-      <img src="https://img.shields.io/badge/SQLAlchemy-AD2B28?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" />
-    </a>
+    <a href="https://alembic.sqlalchemy.org/" target="_blank"><img src="https://img.shields.io/badge/Alembic-4B8BBE?style=flat-square" alt="Alembic" /></a>
+    <a href="https://www.prisma.io/" target="_blank"><img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat-square" alt="Prisma" /></a>
+    <a href="https://dbeaver.io/" target="_blank"><img src="https://img.shields.io/badge/DBeaver-372923?style=flat-square" alt="DBeaver" /></a>
+    <a href="https://www.dbvis.com/" target="_blank"><img src="https://img.shields.io/badge/DbVisualizer-3984C6?style=flat-square" alt="DbVisualizer" /></a>
+    <a href="https://www.pgadmin.org/" target="_blank"><img src="https://img.shields.io/badge/pgAdmin-008BB9?style=flat-square" alt="pgAdmin" /></a>
+    <a href="https://hibernate.org/" target="_blank"><img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white&style=flat-square" alt="Hibernate" /></a>
+    <a href="https://www.sqlalchemy.org/" target="_blank"><img src="https://img.shields.io/badge/SQLAlchemy-AD2B28?style=flat-square&logo=sqlalchemy&logoColor=white" alt="SQLAlchemy" /></a>
   </p>
 
   <h4>☁️ Cloud Platforms</h4>
@@ -129,12 +115,8 @@ print(me.description)
 
   <h4>🧰 Containerization & Orchestration</h4>
   <p align="left">
-    <a href="https://www.docker.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" />
-    </a>
-    <a href="https://kubernetes.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes" />
-    </a>
+    <a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="Docker" /></a>
+    <a href="https://kubernetes.io/" target="_blank"><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square" alt="Kubernetes" /></a>
     <a href="https://www.openshift.com/" target="_blank"><img src="https://img.shields.io/badge/OpenShift-EE0000?logo=redhat&logoColor=white&style=flat-square" alt="OpenShift" /></a>
   </p>
 
@@ -173,25 +155,15 @@ print(me.description)
 
   <h4>🔒 Security & Quality</h4>
   <p align="left">
-    <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank">
-      <img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=flat-square" alt="SonarQube" />
-    </a>
-    <a href="https://www.microfocus.com/en-us/cyberres/application-security/fortify" target="_blank">
-      <img src="https://img.shields.io/badge/Fortify-002B5C?style=flat-square" alt="Fortify" />
-    </a>
+    <a href="https://www.sonarsource.com/products/sonarqube/" target="_blank"><img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqube&logoColor=white&style=flat-square" alt="SonarQube" /></a>
+    <a href="https://www.microfocus.com/en-us/cyberres/application-security/fortify" target="_blank"><img src="https://img.shields.io/badge/Fortify-002B5C?style=flat-square" alt="Fortify" /></a>
   </p>
 
   <h4>🛡️ API Gateways & Management</h4>
   <p align="left">
-    <a href="https://cloud.google.com/apigee" target="_blank">
-      <img src="https://img.shields.io/badge/Apigee-EA7E00?style=flat-square" alt="Apigee" />
-    </a>
-    <a href="https://www.ibm.com/products/api-connect" target="_blank">
-      <img src="https://img.shields.io/badge/API%20Management-0052CC?style=flat-square" alt="API Management" />
-    </a>
-    <a href="https://spring.io/projects/spring-cloud-gateway" target="_blank">
-      <img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?logo=spring&logoColor=white&style=flat-square" alt="Spring Cloud Gateway" />
-    </a>
+    <a href="https://cloud.google.com/apigee" target="_blank"><img src="https://img.shields.io/badge/Apigee-EA7E00?style=flat-square" alt="Apigee" /></a>
+    <a href="https://www.ibm.com/products/api-connect" target="_blank"><img src="https://img.shields.io/badge/API%20Management-0052CC?style=flat-square" alt="API Management" /></a>
+    <a href="https://spring.io/projects/spring-cloud-gateway" target="_blank"><img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?logo=spring&logoColor=white&style=flat-square" alt="Spring Cloud Gateway" /></a>
   </p>
 
   <h4>🔌 API Tools</h4>
@@ -202,56 +174,28 @@ print(me.description)
 
   <h4>📊 Monitoring & Analytics</h4>
   <p align="left">
-    <a href="https://grafana.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" alt="Grafana" />
-    </a>
-    <a href="https://prometheus.io/" target="_blank">
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square" alt="Prometheus" />
-    </a>
+    <a href="https://grafana.com/" target="_blank"><img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square" alt="Grafana" /></a>
+    <a href="https://prometheus.io/" target="_blank"><img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square" alt="Prometheus" /></a>
   </p>
 
   <h4>🧬 Data & Big Data Tools</h4>
   <p align="left">
-    <a href="https://spark.apache.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white&style=flat-square" alt="Apache Spark" />
-    </a>
-    <a href="https://airflow.apache.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white&style=flat-square" alt="Apache Airflow" />
-    </a>
-    <a href="https://www.databricks.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Databricks-E67200?logo=databricks&logoColor=white&style=flat-square" alt="Databricks" />
-    </a>
-    <a href="https://hadoop.apache.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white&style=flat-square" alt="Apache Hadoop" />
-    </a>
+    <a href="https://spark.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white&style=flat-square" alt="Apache Spark" /></a>
+    <a href="https://airflow.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white&style=flat-square" alt="Apache Airflow" /></a>
+    <a href="https://www.databricks.com/" target="_blank"><img src="https://img.shields.io/badge/Databricks-E67200?logo=databricks&logoColor=white&style=flat-square" alt="Databricks" /></a>
+    <a href="https://hadoop.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white&style=flat-square" alt="Apache Hadoop" /></a>
   </p>
 
  <h4>🧰 Developer Tools</h4>
   <p align="left">
-    <a href="https://code.visualstudio.com/" target="_blank">
-      <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" alt="VSCode" />
-    </a>
-    <a href="https://visualstudio.microsoft.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat-square" alt="Visual Studio" />
-    </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank">
-      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat-square" alt="IntelliJ IDEA" />
-    </a>
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-      <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square" alt="PyCharm" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" />
-    </a>
-    <a href="https://github.com/" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" />
-    </a>
-    <a href="https://gitlab.com/" target="_blank">
-      <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat-square" alt="GitLab" />
-    </a>
-    <a href="https://bitbucket.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=flat-square" alt="Bitbucket" />
-    </a>
+    <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" alt="VSCode" /></a>
+    <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white&style=flat-square" alt="Visual Studio" /></a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat-square" alt="IntelliJ IDEA" /></a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white&style=flat-square" alt="PyCharm" /></a>
+    <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="Git" /></a>
+    <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub" /></a>
+    <a href="https://gitlab.com/" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat-square" alt="GitLab" /></a>
+    <a href="https://bitbucket.org/" target="_blank"><img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=flat-square" alt="Bitbucket" /></a>
   </p>
 
   <h4>📋 Project Management</h4>
@@ -263,12 +207,8 @@ print(me.description)
 
   <h4>🧠 AI & Assistants</h4>
   <p align="left">
-    <a href="https://github.com/features/copilot" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white&style=flat-square" alt="GitHub Copilot" />
-    </a>
-    <a href="https://www.cursor.so/" target="_blank">
-      <img src="https://img.shields.io/badge/Cursor-3C82F6?logo=cursor&logoColor=white&style=flat-square" alt="Cursor" />
-    </a>
+    <a href="https://github.com/features/copilot" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white&style=flat-square" alt="GitHub Copilot" /></a>
+    <a href="https://www.cursor.so/" target="_blank"><img src="https://img.shields.io/badge/Cursor-3C82F6?logo=cursor&logoColor=white&style=flat-square" alt="Cursor" /></a>
   </p>
 
   <h4>🏗️ Architecture & Methodologies</h4>
@@ -285,27 +225,13 @@ print(me.description)
 
   <h4>💻 Operating Systems</h4>
   <p align="left">
-    <a href="https://www.linux.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux" />
-    </a>
-    <a href="https://www.microsoft.com/windows" target="_blank">
-      <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square" alt="Windows" />
-    </a>
-    <a href="https://ubuntu.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square" alt="Ubuntu" />
-    </a>
-    <a href="https://www.debian.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=flat-square" alt="Debian" />
-    </a>
-    <a href="https://linuxmint.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Mint-87CF3E?logo=linuxmint&logoColor=white&style=flat-square" alt="Linux Mint" />
-    </a>
-    <a href="https://archlinux.org/" target="_blank">
-      <img src="https://img.shields.io/badge/Arch-1793D1?logo=archlinux&logoColor=white&style=flat-square" alt="Arch Linux" />
-    </a>
-    <a href="https://www.apple.com/macos/" target="_blank">
-      <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=flat-square" alt="macOS" />
-    </a>
+    <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=flat-square" alt="Linux" /></a>
+    <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=flat-square" alt="Windows" /></a>
+    <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square" alt="Ubuntu" /></a>
+    <a href="https://www.debian.org/" target="_blank"><img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=flat-square" alt="Debian" /></a>
+    <a href="https://linuxmint.com/" target="_blank"><img src="https://img.shields.io/badge/Mint-87CF3E?logo=linuxmint&logoColor=white&style=flat-square" alt="Linux Mint" /></a>
+    <a href="https://archlinux.org/" target="_blank"><img src="https://img.shields.io/badge/Arch-1793D1?logo=archlinux&logoColor=white&style=flat-square" alt="Arch Linux" /></a>
+    <a href="https://www.apple.com/macos/" target="_blank"><img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white&style=flat-square" alt="macOS" /></a>
   </p>
 </details>
 
