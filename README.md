@@ -29,9 +29,6 @@
 </div>
 </br>
 
-
-<img align='right' src='https://octodex.github.com/images/spidertocat.png' width='25%'>  
-
 ```python
 class SoftwareEngineer:
     def __init__(self):
@@ -53,7 +50,7 @@ class SoftwareEngineer:
         """
 
     def hi(self):
-        return "Hey there! Thanks for stopping by — feel free to explore my work and reach out!"
+        return "Hey there! Thanks for stopping by, feel free to explore my work and reach out!"
 
 me  = SoftwareEngineer()
 print(me.hi())
