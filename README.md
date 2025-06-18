@@ -55,7 +55,7 @@ print(me.description)
 <details open>
   <summary><h2>🛠️ Technologies & Tools</h2></summary>
 
-  <h4>🧑‍💻 Languages</h4>
+  <h4>🧑‍💻 Programming & Markup Languages</h4>
   <p align="left">
     <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" alt="Java" /></a>
     <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="Python" /></a>
@@ -65,6 +65,8 @@ print(me.description)
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square" alt="TypeScript" /></a>
     <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square" alt="C#" /></a>
     <a href="https://dart.dev/" target="_blank"><img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square" alt="Dart" /></a>
+    <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML5" /></a>
+    <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS3" /></a>
   </p>
 
   <h4>⚙️ Frameworks</h4>
@@ -221,6 +223,7 @@ print(me.description)
     <a href="https://en.wikipedia.org/wiki/Monolithic_application" target="_blank"><img src="https://img.shields.io/badge/Monolith-AAAAAA?style=flat-square" alt="Monolith" /></a>
     <a href="https://en.wikipedia.org/wiki/Event-driven_architecture" target="_blank"><img src="https://img.shields.io/badge/Event--Driven-9B59B6?style=flat-square" alt="Event-Driven Architecture" /></a>
     <a href="https://martinfowler.com/articles/serverless.html" target="_blank"><img src="https://img.shields.io/badge/Serverless-FE7A16?style=flat-square" alt="Serverless" /></a>
+    <a href="https://jimmybogard.com/vertical-slice-architecture/" target="_blank"><img src="https://img.shields.io/badge/Vertical%20Slice%20Architecture-A81D33?style=flat-square" alt="Vertical Slice Architecture" /></a>
   </p>
 
   <h4>💻 Operating Systems</h4>
