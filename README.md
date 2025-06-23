@@ -186,6 +186,8 @@ print(me.description)
     <a href="https://airflow.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white&style=flat-square" alt="Apache Airflow" /></a>
     <a href="https://www.databricks.com/" target="_blank"><img src="https://img.shields.io/badge/Databricks-E67200?logo=databricks&logoColor=white&style=flat-square" alt="Databricks" /></a>
     <a href="https://hadoop.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white&style=flat-square" alt="Apache Hadoop" /></a>
+    <a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square" alt="Pandas" /></a>
+    <a href="https://numpy.org/" target="_blank"><img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square" alt="NumPy" /></a>
   </p>
 
  <h4>🧰 Developer Tools</h4>
