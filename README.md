@@ -153,6 +153,8 @@ print(me.description)
     <a href="https://grpc.io/" target="_blank"><img src="https://img.shields.io/badge/gRPC-4285F4?logo=grpc&logoColor=white&style=flat-square" alt="gRPC" /></a>
     <a href="https://restfulapi.net/" target="_blank"><img src="https://img.shields.io/badge/REST%20API-0052CC?style=flat-square" alt="REST API" /></a>
     <a href="https://graphql.org/" target="_blank"><img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=flat-square" alt="GraphQL" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events" target="_blank"><img src="https://img.shields.io/badge/SSE-FFB300?style=flat-square" alt="Server-Sent Events (SSE)" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank"><img src="https://img.shields.io/badge/WebSocket-35495E?logo=websocket&logoColor=white&style=flat-square" alt="WebSocket" /></a>
   </p>
 
   <h4>🔒 Security & Quality</h4>
