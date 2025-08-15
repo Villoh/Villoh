@@ -358,6 +358,13 @@ print(me.description)
       <br />
       <a href="https://github.com/pkq403">pkq403</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/Mariola2312">
+        <img src="https://avatars2.githubusercontent.com/u/82021439" width="100px;" alt="Mariola2312"/>
+      </a>
+      <br />
+      <a href="https://github.com/Mariola2312">Mariola Ruiz</a>
+    </td>
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
