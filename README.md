@@ -349,14 +349,14 @@ print(me.description)
         <img src="https://avatars2.githubusercontent.com/u/66483326" width="100px;" alt="THIONG"/>
       </a>
       <br />
-      <a href="https://github.com/THIONG">THIONG</a>
+      <a href="https://github.com/THIONG">Saúl Rodríguez Guillén</a>
     </td>
     <td align="center">
-      <a href="https://github.com/pkq403">
-        <img src="https://avatars2.githubusercontent.com/u/66843313" width="100px;" alt="pkq403"/>
+      <a href="https://github.com/byMoPS22">
+        <img src="https://avatars2.githubusercontent.com/u/48887352" width="100px;" alt="byMoPS22"/>
       </a>
       <br />
-      <a href="https://github.com/pkq403">pkq403</a>
+      <a href="https://github.com/byMoPS22">byMoPS22</a>
     </td>
     <td align="center">
       <a href="https://github.com/Mariola2312">
@@ -364,6 +364,15 @@ print(me.description)
       </a>
       <br />
       <a href="https://github.com/Mariola2312">Mariola Ruiz</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/pkq403">
+        <img src="https://avatars2.githubusercontent.com/u/66843313" width="100px;" alt="pkq403"/>
+      </a>
+      <br />
+      <a href="https://github.com/pkq403">pkq403</a>
     </td>
   </tr>
 </table>
