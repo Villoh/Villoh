@@ -349,7 +349,7 @@ print(me.description)
         <img src="https://avatars2.githubusercontent.com/u/66483326" width="100px;" alt="THIONG"/>
       </a>
       <br />
-      <a href="https://github.com/THIONG">Saúl Rodríguez Guillén</a>
+      <a href="https://github.com/THIONG">Saúl Rodríguez</a>
     </td>
     <td align="center">
       <a href="https://github.com/byMoPS22">
