@@ -245,29 +245,6 @@ print(me.description)
 </details>
 
 <details open>
-  <summary><h2>🏆 Github Trophies</h2></summary>
-  <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=Villoh&theme=dracula&rank=SECRET,S,AAA,AA,A,B" alt="GitHub Trophies" />
-    </a>
-  </div>
-</details>
-
-<details open>
-  <summary><h2>📜 Commit History</h2></summary>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Villoh/Villoh/refs/heads/output_snake/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Villoh/Villoh/refs/heads/output_snake/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Villoh/Villoh/refs/heads/output_snake/github-contribution-grid-snake.svg" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Villoh/Villoh/output_pacman/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Villoh/Villoh/output_pacman/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Villoh/Villoh/output_pacman/pacman-contribution-graph.svg">
-  </picture>
-</details>
-
-<details open>
   <summary><h2>🎧 Spotify Playing</h2></summary>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31iav4g6657oqojemi6docxxmyei&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iav4g6657oqojemi6docxxmyei&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
@@ -283,24 +260,24 @@ print(me.description)
   <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Villoh's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=Villoh&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Villoh's streak" src="https://streak-stats.demolab.com/?user=Villoh&hide_border=true&short_numbers=true&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Villoh's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Villoh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Villoh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villoh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Villoh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Villoh&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Villoh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villoh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Villoh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Villoh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Villoh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Villoh&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&hide_border=false" /></a>
 
   <h3>⚡ Recent GitHub Activity</h3>
 
@@ -311,6 +288,29 @@ print(me.description)
 3. 💪 Opened PR [#16](https://github.com/Villoh/portfolio-backend/pull/16) in [Villoh/portfolio-backend](https://github.com/Villoh/portfolio-backend)
 4. 🎉 Merged PR [#14](https://github.com/Villoh/portfolio-backend/pull/14) in [Villoh/portfolio-backend](https://github.com/Villoh/portfolio-backend)
   <!--END_SECTION:activity-->
+</details>
+
+<details open>
+  <summary><h2>🏆 Github Trophies</h2></summary>
+  <div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=Villoh&theme=onestar&rank=SECRET,S,AAA,AA,A,B" alt="GitHub Trophies" />
+    </a>
+  </div>
+</details>
+
+<details>
+  <summary><h2>📜 Commit History</h2></summary>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Villoh/Villoh/refs/heads/output_snake/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Villoh/Villoh/refs/heads/output_snake/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Villoh/Villoh/refs/heads/output_snake/github-contribution-grid-snake.svg" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Villoh/Villoh/output_pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Villoh/Villoh/output_pacman/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Villoh/Villoh/output_pacman/pacman-contribution-graph.svg">
+  </picture>
 </details>
 
 <details> 
@@ -384,16 +384,16 @@ print(me.description)
 <details> 
   <summary><h2>🔥 Top Repositories</h2></summary>
   <a href="https://github.com/Villoh/VHub-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=VHub-API&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_owner=true" alt="VHub-API Repo Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=VHub-API&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&show_owner=true" alt="VHub-API Repo Card" />
   </a>
   <a href="https://github.com/Villoh/caixabank-coding-challenges-round-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=caixabank-coding-challenges-round-3&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_owner=true" height="120" alt="caixabank-coding-challenges-round-3" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=caixabank-coding-challenges-round-3&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&show_owner=true" height="120" alt="caixabank-coding-challenges-round-3" />
   </a>
   <a href="https://github.com/Villoh/inditex-backend-java-logisticode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=inditex-backend-java-logisticode&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_owner=true" alt="inditex-backend-java-logisticode" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=inditex-backend-java-logisticode&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&show_owner=true" alt="inditex-backend-java-logisticode" />
   </a>
   <a href="https://github.com/Villoh/Cubik-Jump">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=Cubik-Jump&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&show_owner=true" alt="Cubik-Jump" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Villoh&repo=Cubik-Jump&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&show_owner=true" alt="Cubik-Jump" />
   </a>
 </div>
 </details>
