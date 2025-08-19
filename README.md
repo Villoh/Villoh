@@ -189,6 +189,7 @@ print(me.description)
       <td>
         <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat-square" alt="Postman" /></a>
         <a href="https://insomnia.rest/" target="_blank"><img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white&style=flat-square" alt="Insomnia" /></a>
+        <a href="https://hoppscotch.io/" target="_blank"><img src="https://img.shields.io/badge/Hoppscotch-31C48D?logo=hoppscotch&logoColor=white&style=flat-square" alt="Hoppscotch" /></a>
       </td>
     </tr>
     <tr>
