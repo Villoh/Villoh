@@ -232,12 +232,14 @@ print(me.description)
       </td>
     </tr>
     <tr>
-      <td><strong>🧠 AI & Assistants</strong></td>
-      <td>
-        <a href="https://github.com/features/copilot" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white&style=flat-square" alt="GitHub Copilot" /></a>
-        <a href="https://www.cursor.so/" target="_blank"><img src="https://img.shields.io/badge/Cursor-3C82F6?logo=cursor&logoColor=white&style=flat-square" alt="Cursor" /></a>
-      </td>
-    </tr>
+       <td><strong>🧠 AI & Assistants</strong></td>
+       <td>
+         <a href="https://github.com/features/copilot" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Copilot-000000?logo=githubcopilot&logoColor=white&style=flat-square" alt="GitHub Copilot" /></a>
+         <a href="https://www.cursor.so/" target="_blank"><img src="https://img.shields.io/badge/Cursor-3C82F6?logo=cursor&logoColor=white&style=flat-square" alt="Cursor" /></a>
+         <a href="https://langchain.com/" target="_blank"><img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat-square" alt="LangChain" /></a>
+         <a href="https://langchain-ai.github.io/langgraph/" target="_blank"><img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square" alt="LangGraph" /></a>
+       </td>
+     </tr>
     <tr>
       <td><strong>🏗️ Architecture & Methodologies</strong></td>
       <td>
