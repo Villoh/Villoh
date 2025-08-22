@@ -95,6 +95,7 @@ print(me.description)
         <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=flat-square" alt="SQL Server" /></a>
         <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="MongoDB" /></a>
         <a href="https://cassandra.apache.org/" target="_blank"><img src="https://img.shields.io/badge/Cassandra-1287B1?logo=apachecassandra&logoColor=white&style=flat-square" alt="Cassandra" /></a>
+        <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square" alt="Supabase" /></a>
       </td>
     </tr>
     <tr>
