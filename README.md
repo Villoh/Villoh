@@ -387,20 +387,20 @@ print(me.description)
       <a href="https://github.com/byMoPS22">byMoPS22</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Mariola2312">
-        <img src="https://avatars2.githubusercontent.com/u/82021439" width="100px;" alt="Mariola2312"/>
-      </a>
-      <br />
-      <a href="https://github.com/Mariola2312">Mariola Ruiz</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/pkq403">
         <img src="https://avatars2.githubusercontent.com/u/66843313" width="100px;" alt="pkq403"/>
       </a>
       <br />
       <a href="https://github.com/pkq403">pkq403</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Mariola2312">
+        <img src="https://avatars2.githubusercontent.com/u/82021439" width="100px;" alt="Mariola2312"/>
+      </a>
+      <br />
+      <a href="https://github.com/Mariola2312">Mariola Ruiz</a>
     </td>
   </tr>
 </table>
