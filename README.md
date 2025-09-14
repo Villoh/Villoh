@@ -370,7 +370,7 @@ print(me.description)
         <img src="https://avatars2.githubusercontent.com/u/186762799" width="100px;" alt="iiTzSenn"/>
       </a>
       <br />
-      <a href="https://github.com/iiTzSenn">iiTzSenn</a>
+      <a href="https://github.com/iiTzSenn">Souffiane Assari</a>
     </td>
     <td align="center">
       <a href="https://github.com/THIONG">
