@@ -359,6 +359,13 @@ print(me.description)
       <a href="https://github.com/LuckyGenie1004">Full-Stack Developer</a>
     </td>
     <td align="center">
+      <a href="https://github.com/pkq403">
+        <img src="https://avatars2.githubusercontent.com/u/66843313" width="100px;" alt="pkq403"/>
+      </a>
+      <br />
+      <a href="https://github.com/pkq403">pkq403</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/osvitore">
         <img src="https://avatars2.githubusercontent.com/u/91624784" width="100px;" alt="osvitore"/>
       </a>
@@ -378,13 +385,6 @@ print(me.description)
       </a>
       <br />
       <a href="https://github.com/THIONG">Saúl Rodríguez</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/pkq403">
-        <img src="https://avatars2.githubusercontent.com/u/66843313" width="100px;" alt="pkq403"/>
-      </a>
-      <br />
-      <a href="https://github.com/pkq403">pkq403</a>
     </td>
     <td align="center">
       <a href="https://github.com/byMoPS22">
