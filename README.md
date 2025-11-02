@@ -310,7 +310,7 @@ print(me.description)
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/Villoh/portfolio-backend/pull/16) in [Villoh/portfolio-backend](https://github.com/Villoh/portfolio-backend)
+1. 🗣 Commented on [#1](https://github.com/DaviZCodes/vercel-hobby-collaboration-github-actions/issues/1#issuecomment-3295989882) in [DaviZCodes/vercel-hobby-collaboration-github-actions](https://github.com/DaviZCodes/vercel-hobby-collaboration-github-actions)
 2. 🎉 Merged PR [#15](https://github.com/Villoh/portfolio-backend/pull/15) in [Villoh/portfolio-backend](https://github.com/Villoh/portfolio-backend)
 3. 💪 Opened PR [#16](https://github.com/Villoh/portfolio-backend/pull/16) in [Villoh/portfolio-backend](https://github.com/Villoh/portfolio-backend)
 4. 🎉 Merged PR [#14](https://github.com/Villoh/portfolio-backend/pull/14) in [Villoh/portfolio-backend](https://github.com/Villoh/portfolio-backend)
@@ -360,6 +360,13 @@ print(me.description)
       <a href="https://github.com/LuckyGenie1004">Full-Stack Developer</a>
     </td>
     <td align="center">
+      <a href="https://github.com/pkq403">
+        <img src="https://avatars2.githubusercontent.com/u/66843313" width="100px;" alt="pkq403"/>
+      </a>
+      <br />
+      <a href="https://github.com/pkq403">pkq403</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/osvitore">
         <img src="https://avatars2.githubusercontent.com/u/91624784" width="100px;" alt="osvitore"/>
       </a>
@@ -371,7 +378,7 @@ print(me.description)
         <img src="https://avatars2.githubusercontent.com/u/186762799" width="100px;" alt="iiTzSenn"/>
       </a>
       <br />
-      <a href="https://github.com/iiTzSenn">iiTzSenn</a>
+      <a href="https://github.com/iiTzSenn">Souffiane Assari</a>
     </td>
     <td align="center">
       <a href="https://github.com/THIONG">
@@ -387,21 +394,14 @@ print(me.description)
       <br />
       <a href="https://github.com/byMoPS22">Adrián Galán Bolado</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/Mariola2312">
         <img src="https://avatars2.githubusercontent.com/u/82021439" width="100px;" alt="Mariola2312"/>
       </a>
       <br />
       <a href="https://github.com/Mariola2312">Mariola Ruiz</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/pkq403">
-        <img src="https://avatars2.githubusercontent.com/u/66843313" width="100px;" alt="pkq403"/>
-      </a>
-      <br />
-      <a href="https://github.com/pkq403">pkq403</a>
     </td>
   </tr>
 </table>
