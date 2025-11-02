@@ -82,6 +82,7 @@ print(me.description)
         <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-square" alt="Next.js" /></a>
         <a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-26292f?style=flat-square&logo=vue.js" alt="Vue.js" /></a>
         <a href="https://nuxt.com/" target="_blank"><img src="https://img.shields.io/badge/Nuxt-020618?style=flat-square&logo=nuxt" alt="Nuxt" /></a>
+        <a href="https://astro.build/" target="_blank"><img src="https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=white&style=flat-square" alt="Astro" /></a>
         <a href="https://flutter.dev/" target="_blank"><img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" alt="Flutter" /></a>
       </td>
     </tr>
