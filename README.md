@@ -388,20 +388,20 @@ print(me.description)
       <a href="https://github.com/THIONG">Saúl Rodríguez</a>
     </td>
     <td align="center">
-      <a href="https://github.com/byMoPS22">
-        <img src="https://avatars2.githubusercontent.com/u/48887352" width="100px;" alt="byMoPS22"/>
-      </a>
-      <br />
-      <a href="https://github.com/byMoPS22">Adrián Galán Bolado</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <a href="https://github.com/Mariola2312">
         <img src="https://avatars2.githubusercontent.com/u/82021439" width="100px;" alt="Mariola2312"/>
       </a>
       <br />
       <a href="https://github.com/Mariola2312">Mariola Ruiz</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/byMoPS22">
+        <img src="https://avatars2.githubusercontent.com/u/48887352" width="100px;" alt="byMoPS22"/>
+      </a>
+      <br />
+      <a href="https://github.com/byMoPS22">Adrián Galán Bolado</a>
     </td>
   </tr>
 </table>
