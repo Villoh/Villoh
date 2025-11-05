@@ -48,7 +48,6 @@ class SoftwareEngineer:
 
 me  = SoftwareEngineer()
 print(me.hi())
-print(me.description)
 ```
 
 
