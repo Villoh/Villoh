@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://binaryishuman.com" target="_blank">
+  <a href="https://beyondhumane.com" target="_blank">
     <img src="./img/banner-dark.svg"/>
   </a>
 </div>
