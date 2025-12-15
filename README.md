@@ -352,6 +352,13 @@ print(me.hi())
       <a href="https://github.com/wachawo">Aleksandr Pimenov</a>
     </td>
     <td align="center">
+      <a href="https://github.com/astabrutie8">
+        <img src="https://avatars2.githubusercontent.com/u/125909656" width="100px;" alt="astabrutie8"/>
+      </a>
+      <br />
+      <a href="https://github.com/astabrutie8">Brutie</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/TerciodeMarte">
         <img src="https://avatars2.githubusercontent.com/u/111312600" width="100px;" alt="TerciodeMarte"/>
       </a>
@@ -386,6 +393,8 @@ print(me.hi())
       <br />
       <a href="https://github.com/iiTzSenn">Souffiane Assari</a>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/THIONG">
         <img src="https://avatars2.githubusercontent.com/u/66483326" width="100px;" alt="THIONG"/>
@@ -393,8 +402,6 @@ print(me.hi())
       <br />
       <a href="https://github.com/THIONG">Saúl Rodríguez</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="https://github.com/Mariola2312">
         <img src="https://avatars2.githubusercontent.com/u/82021439" width="100px;" alt="Mariola2312"/>
