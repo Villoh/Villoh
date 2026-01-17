@@ -270,7 +270,7 @@ print(me.hi())
   </table>
 </details>
 
-<details open>
+<details>
   <summary><h2>🎧 Spotify Playing</h2></summary>
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31iav4g6657oqojemi6docxxmyei&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31iav4g6657oqojemi6docxxmyei&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile" />
