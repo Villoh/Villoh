@@ -1,38 +1,32 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img"
   aria-label="Mikel Villota | Software Engineer · Cloud · Big Data · AI | Founder at Beyond Humane">
   <defs>
-    <clipPath id="r">
-      <rect x="0" y="0" width="1200" height="300" rx="24" ry="24"></rect>
-    </clipPath>
+    <mask id="rounded">
+      <rect x="0" y="0" width="1200" height="300" rx="24" ry="24" fill="#fff" />
+    </mask>
   </defs>
 
-  <!-- Fondo negro -->
-  <rect width="1200" height="300" fill="#000000" rx="24" ry="24"></rect>
+  <g mask="url(#rounded)">
+    <rect width="1200" height="300" fill="#000000" />
+    <circle cx="-50" cy="-30" r="260" fill="#ffffff" />
+    <circle cx="-50" cy="-30" r="140" fill="#000000" />
+    <circle cx="1250" cy="330" r="260" fill="#ffffff" />
+    <circle cx="1250" cy="330" r="140" fill="#000000" />
+    <g transform="translate(260,120)">
+      <text font-family="Inter, Segoe UI, Roboto, Ubuntu, system-ui, -apple-system, sans-serif" font-size="56"
+        font-weight="800" fill="#ffffff" x="0" y="0">
+        Mikel Villota
+      </text>
 
-  <!-- Motivos geométricos estilo Beyond Humane -->
-  <g clip-path="url(#r)">
-    <!-- Doble arco izquierda -->
-    <circle cx="-50" cy="-30" r="260" fill="#ffffff"></circle>
-    <circle cx="-50" cy="-30" r="140" fill="#000000"></circle>
-    <!-- Doble arco derecha -->
-    <circle cx="1250" cy="330" r="260" fill="#ffffff"></circle>
-    <circle cx="1250" cy="330" r="140" fill="#000000"></circle>
-  </g>
+      <text font-family="Inter, Segoe UI, Roboto, Ubuntu, system-ui, -apple-system, sans-serif" font-size="30"
+        font-weight="700" fill="#ffffff" x="0" y="50">
+        Software Engineer · Cloud · Big Data · AI
+      </text>
 
-  <g transform="translate(260,120)">
-    <text font-family="Inter, Segoe UI, Roboto, Ubuntu, system-ui, -apple-system, sans-serif" font-size="56"
-      font-weight="800" fill="#ffffff" x="0" y="0">
-      Mikel Villota
-    </text>
-
-    <text font-family="Inter, Segoe UI, Roboto, Ubuntu, system-ui, -apple-system, sans-serif" font-size="30"
-      font-weight="700" fill="#ffffff" x="0" y="50">
-      Software Engineer · Cloud · Big Data · AI
-    </text>
-
-    <text font-family="Inter, Segoe UI, Roboto, Ubuntu, system-ui, -apple-system, sans-serif" font-size="20"
-      font-weight="600" fill="#e5e7eb" x="0" y="90">
-      Founder @ Beyond Humane
-    </text>
+      <text font-family="Inter, Segoe UI, Roboto, Ubuntu, system-ui, -apple-system, sans-serif" font-size="20"
+        font-weight="600" fill="#e5e7eb" x="0" y="90">
+        Founder @ Beyond Humane
+      </text>
+    </g>
   </g>
 </svg>
