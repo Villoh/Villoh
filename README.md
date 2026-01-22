@@ -183,10 +183,5 @@ print(me.hi())
 <!-- Resources -->
 <!-- snk: https://github.com/Platane/snk-->
 <!-- Spotify Github Profile: https://github.com/kittinan/spotify-github-profile-->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
-<!-- GitHub Profile Trophy: https://github.com/ryo-ma/github-profile-trophy -->
-<!-- Github Readme Activity Graph: https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<!-- Github Readme Streak Stats: https://github.com/DenverCoder1/github-readme-streak-stats -->
-<!-- Github Readme Stats: https://github.com/anuraghazra/github-readme-stats -->
 <!-- Github Visitor Badge: https://github.com/hehuapei/visitor-badge -->
 <!-- Shields: https://github.com/badges/shields -->
