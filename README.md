@@ -8,11 +8,11 @@ Building [beyondhumane.com](https://beyondhumane.com) and other things.
 
 Software Engineer from Spain. Mostly backend, but happy to work across the stack and use whatever fits the job.
 
+I've been messing with software since I was 14. I like backend systems, clean architecture, microservices, AI, and building robust, scalable services.
+
 <p>
   <img src="https://api.visitorbadge.io/api/visitors?path=Villoh&label=Profile%20views&labelColor=%23000000&countColor=%23ffffff&style=flat-square" alt="Profile views" />
 </p>
-
-I've been messing with software since I was 14. I like backend systems, clean architecture, microservices, AI, and building robust, scalable services.
 
 - [Visit me](https://villota.me)
 - [Resume](https://villota.me/resume)
@@ -22,7 +22,7 @@ I've been messing with software since I was 14. I like backend systems, clean ar
 ### You can find me here
 
 <p>
-  <a href="https://www.linkedin.com/in/mikelvillota/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="24" height="24" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mikelvillota/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/linkedin.svg" width="24" height="24" alt="LinkedIn" /></a>&nbsp;
   <a href="https://x.com/Villoh_"><img src="https://cdn.simpleicons.org/x/888888" width="24" height="24" alt="X" /></a>&nbsp;
   <a href="https://stackoverflow.com/users/30111324/villoh"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="24" height="24" alt="Stack Overflow" /></a>
 </p>
