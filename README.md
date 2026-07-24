@@ -10,14 +10,18 @@ Software Engineer from Spain. Mostly backend, but happy to work across the stack
 
 I've been messing with software since I was 14. I like backend systems, clean architecture, microservices, AI, and building robust, scalable services.
 
-<p>
-  <img src="https://api.visitorbadge.io/api/visitors?path=Villoh&label=Profile%20views&labelColor=%23000000&countColor=%23ffffff&style=flat-square" alt="Profile views" />
-</p>
+
 
 - [Visit me](https://villota.me)
 - [Resume](https://villota.me/resume)
 
 > Currently learning Go and Rust, studying AI inference and how models run in production, and exploring what artificial intelligence makes possible.
+
+</br>
+
+<p>
+  <img src="https://api.visitorbadge.io/api/visitors?path=Villoh&label=Profile%20views&labelColor=%23000000&countColor=%23ffffff&style=flat-square" alt="Profile views" />
+</p>
 
 ### You can find me here
 
