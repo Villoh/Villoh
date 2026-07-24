@@ -1,13 +1,24 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img"
+<svg width="1120" height="300" viewBox="0 0 1120 300" xmlns="http://www.w3.org/2000/svg" role="img"
   aria-label="Mikel Villota | Software Engineer · Cloud · Big Data · AI | Founder at Beyond Humane">
   <defs>
     <clipPath id="frame">
-      <rect width="1200" height="300" rx="24" />
+      <rect width="1120" height="300" rx="24" />
     </clipPath>
+    <linearGradient id="pulseGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.15" />
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.9" />
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2.2" result="b" />
+      <feMerge>
+        <feMergeNode in="b" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
   </defs>
 
   <g clip-path="url(#frame)">
-    <rect width="1200" height="300" fill="#000000" />
+    <rect width="1120" height="300" fill="#000000" />
 
     <!-- Identity -->
     <g transform="translate(90 68)" opacity="0">
@@ -26,6 +37,321 @@
       <text x="24" y="147" fill="#ffffff" fill-opacity="0.5"
         font-family="Inter, Segoe UI, Roboto, Ubuntu, system-ui, sans-serif"
         font-size="18" font-weight="500">Co-Founder @ Beyond Humane</text>
+    </g>
+
+    <!-- Neural inference: forward pass through the network -->
+    <g transform="translate(-85 0)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.5s" dur="1.4s" fill="freeze" />
+
+      <!-- base connections -->
+      <g stroke="#ffffff" stroke-opacity="0.08" stroke-width="1" fill="none">
+        <line x1="765" y1="75" x2="870" y2="55" />
+        <line x1="765" y1="75" x2="870" y2="93" />
+        <line x1="765" y1="75" x2="870" y2="131" />
+        <line x1="765" y1="75" x2="870" y2="169" />
+        <line x1="765" y1="75" x2="870" y2="207" />
+        <line x1="765" y1="75" x2="870" y2="245" />
+        <line x1="765" y1="125" x2="870" y2="55" />
+        <line x1="765" y1="125" x2="870" y2="93" />
+        <line x1="765" y1="125" x2="870" y2="131" />
+        <line x1="765" y1="125" x2="870" y2="169" />
+        <line x1="765" y1="125" x2="870" y2="207" />
+        <line x1="765" y1="125" x2="870" y2="245" />
+        <line x1="765" y1="175" x2="870" y2="55" />
+        <line x1="765" y1="175" x2="870" y2="93" />
+        <line x1="765" y1="175" x2="870" y2="131" />
+        <line x1="765" y1="175" x2="870" y2="169" />
+        <line x1="765" y1="175" x2="870" y2="207" />
+        <line x1="765" y1="175" x2="870" y2="245" />
+        <line x1="765" y1="225" x2="870" y2="55" />
+        <line x1="765" y1="225" x2="870" y2="93" />
+        <line x1="765" y1="225" x2="870" y2="131" />
+        <line x1="765" y1="225" x2="870" y2="169" />
+        <line x1="765" y1="225" x2="870" y2="207" />
+        <line x1="765" y1="225" x2="870" y2="245" />
+        <line x1="870" y1="55" x2="975" y2="55" />
+        <line x1="870" y1="55" x2="975" y2="93" />
+        <line x1="870" y1="55" x2="975" y2="131" />
+        <line x1="870" y1="55" x2="975" y2="169" />
+        <line x1="870" y1="55" x2="975" y2="207" />
+        <line x1="870" y1="55" x2="975" y2="245" />
+        <line x1="870" y1="93" x2="975" y2="55" />
+        <line x1="870" y1="93" x2="975" y2="93" />
+        <line x1="870" y1="93" x2="975" y2="131" />
+        <line x1="870" y1="93" x2="975" y2="169" />
+        <line x1="870" y1="93" x2="975" y2="207" />
+        <line x1="870" y1="93" x2="975" y2="245" />
+        <line x1="870" y1="131" x2="975" y2="55" />
+        <line x1="870" y1="131" x2="975" y2="93" />
+        <line x1="870" y1="131" x2="975" y2="131" />
+        <line x1="870" y1="131" x2="975" y2="169" />
+        <line x1="870" y1="131" x2="975" y2="207" />
+        <line x1="870" y1="131" x2="975" y2="245" />
+        <line x1="870" y1="169" x2="975" y2="55" />
+        <line x1="870" y1="169" x2="975" y2="93" />
+        <line x1="870" y1="169" x2="975" y2="131" />
+        <line x1="870" y1="169" x2="975" y2="169" />
+        <line x1="870" y1="169" x2="975" y2="207" />
+        <line x1="870" y1="169" x2="975" y2="245" />
+        <line x1="870" y1="207" x2="975" y2="55" />
+        <line x1="870" y1="207" x2="975" y2="93" />
+        <line x1="870" y1="207" x2="975" y2="131" />
+        <line x1="870" y1="207" x2="975" y2="169" />
+        <line x1="870" y1="207" x2="975" y2="207" />
+        <line x1="870" y1="207" x2="975" y2="245" />
+        <line x1="870" y1="245" x2="975" y2="55" />
+        <line x1="870" y1="245" x2="975" y2="93" />
+        <line x1="870" y1="245" x2="975" y2="131" />
+        <line x1="870" y1="245" x2="975" y2="169" />
+        <line x1="870" y1="245" x2="975" y2="207" />
+        <line x1="870" y1="245" x2="975" y2="245" />
+        <line x1="975" y1="55" x2="1080" y2="100" />
+        <line x1="975" y1="55" x2="1080" y2="150" />
+        <line x1="975" y1="55" x2="1080" y2="200" />
+        <line x1="975" y1="93" x2="1080" y2="100" />
+        <line x1="975" y1="93" x2="1080" y2="150" />
+        <line x1="975" y1="93" x2="1080" y2="200" />
+        <line x1="975" y1="131" x2="1080" y2="100" />
+        <line x1="975" y1="131" x2="1080" y2="150" />
+        <line x1="975" y1="131" x2="1080" y2="200" />
+        <line x1="975" y1="169" x2="1080" y2="100" />
+        <line x1="975" y1="169" x2="1080" y2="150" />
+        <line x1="975" y1="169" x2="1080" y2="200" />
+        <line x1="975" y1="207" x2="1080" y2="100" />
+        <line x1="975" y1="207" x2="1080" y2="150" />
+        <line x1="975" y1="207" x2="1080" y2="200" />
+        <line x1="975" y1="245" x2="1080" y2="100" />
+        <line x1="975" y1="245" x2="1080" y2="150" />
+        <line x1="975" y1="245" x2="1080" y2="200" />
+      </g>
+
+      <!-- forward-pass edge highlights -->
+      <!-- gap 0 highlight -->
+      <g stroke="url(#pulseGrad)" stroke-width="1.6" fill="none" opacity="0">
+        <animate attributeName="opacity"
+          values="0;0.9;0" keyTimes="0;0.35;1"
+          dur="3.6s" begin="0.0s" repeatCount="indefinite"
+          calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1" />
+        <line x1="765" y1="75" x2="870" y2="55" />
+        <line x1="765" y1="75" x2="870" y2="93" />
+        <line x1="765" y1="75" x2="870" y2="131" />
+        <line x1="765" y1="75" x2="870" y2="169" />
+        <line x1="765" y1="75" x2="870" y2="207" />
+        <line x1="765" y1="75" x2="870" y2="245" />
+        <line x1="765" y1="125" x2="870" y2="55" />
+        <line x1="765" y1="125" x2="870" y2="93" />
+        <line x1="765" y1="125" x2="870" y2="131" />
+        <line x1="765" y1="125" x2="870" y2="169" />
+        <line x1="765" y1="125" x2="870" y2="207" />
+        <line x1="765" y1="125" x2="870" y2="245" />
+        <line x1="765" y1="175" x2="870" y2="55" />
+        <line x1="765" y1="175" x2="870" y2="93" />
+        <line x1="765" y1="175" x2="870" y2="131" />
+        <line x1="765" y1="175" x2="870" y2="169" />
+        <line x1="765" y1="175" x2="870" y2="207" />
+        <line x1="765" y1="175" x2="870" y2="245" />
+        <line x1="765" y1="225" x2="870" y2="55" />
+        <line x1="765" y1="225" x2="870" y2="93" />
+        <line x1="765" y1="225" x2="870" y2="131" />
+        <line x1="765" y1="225" x2="870" y2="169" />
+        <line x1="765" y1="225" x2="870" y2="207" />
+        <line x1="765" y1="225" x2="870" y2="245" />
+      </g>
+      <!-- gap 1 highlight -->
+      <g stroke="url(#pulseGrad)" stroke-width="1.6" fill="none" opacity="0">
+        <animate attributeName="opacity"
+          values="0;0.9;0" keyTimes="0;0.35;1"
+          dur="3.6s" begin="0.55s" repeatCount="indefinite"
+          calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1" />
+        <line x1="870" y1="55" x2="975" y2="55" />
+        <line x1="870" y1="55" x2="975" y2="93" />
+        <line x1="870" y1="55" x2="975" y2="131" />
+        <line x1="870" y1="55" x2="975" y2="169" />
+        <line x1="870" y1="55" x2="975" y2="207" />
+        <line x1="870" y1="55" x2="975" y2="245" />
+        <line x1="870" y1="93" x2="975" y2="55" />
+        <line x1="870" y1="93" x2="975" y2="93" />
+        <line x1="870" y1="93" x2="975" y2="131" />
+        <line x1="870" y1="93" x2="975" y2="169" />
+        <line x1="870" y1="93" x2="975" y2="207" />
+        <line x1="870" y1="93" x2="975" y2="245" />
+        <line x1="870" y1="131" x2="975" y2="55" />
+        <line x1="870" y1="131" x2="975" y2="93" />
+        <line x1="870" y1="131" x2="975" y2="131" />
+        <line x1="870" y1="131" x2="975" y2="169" />
+        <line x1="870" y1="131" x2="975" y2="207" />
+        <line x1="870" y1="131" x2="975" y2="245" />
+        <line x1="870" y1="169" x2="975" y2="55" />
+        <line x1="870" y1="169" x2="975" y2="93" />
+        <line x1="870" y1="169" x2="975" y2="131" />
+        <line x1="870" y1="169" x2="975" y2="169" />
+        <line x1="870" y1="169" x2="975" y2="207" />
+        <line x1="870" y1="169" x2="975" y2="245" />
+        <line x1="870" y1="207" x2="975" y2="55" />
+        <line x1="870" y1="207" x2="975" y2="93" />
+        <line x1="870" y1="207" x2="975" y2="131" />
+        <line x1="870" y1="207" x2="975" y2="169" />
+        <line x1="870" y1="207" x2="975" y2="207" />
+        <line x1="870" y1="207" x2="975" y2="245" />
+        <line x1="870" y1="245" x2="975" y2="55" />
+        <line x1="870" y1="245" x2="975" y2="93" />
+        <line x1="870" y1="245" x2="975" y2="131" />
+        <line x1="870" y1="245" x2="975" y2="169" />
+        <line x1="870" y1="245" x2="975" y2="207" />
+        <line x1="870" y1="245" x2="975" y2="245" />
+      </g>
+      <!-- gap 2 highlight -->
+      <g stroke="url(#pulseGrad)" stroke-width="1.6" fill="none" opacity="0">
+        <animate attributeName="opacity"
+          values="0;0.9;0" keyTimes="0;0.35;1"
+          dur="3.6s" begin="1.1s" repeatCount="indefinite"
+          calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1" />
+        <line x1="975" y1="55" x2="1080" y2="100" />
+        <line x1="975" y1="55" x2="1080" y2="150" />
+        <line x1="975" y1="55" x2="1080" y2="200" />
+        <line x1="975" y1="93" x2="1080" y2="100" />
+        <line x1="975" y1="93" x2="1080" y2="150" />
+        <line x1="975" y1="93" x2="1080" y2="200" />
+        <line x1="975" y1="131" x2="1080" y2="100" />
+        <line x1="975" y1="131" x2="1080" y2="150" />
+        <line x1="975" y1="131" x2="1080" y2="200" />
+        <line x1="975" y1="169" x2="1080" y2="100" />
+        <line x1="975" y1="169" x2="1080" y2="150" />
+        <line x1="975" y1="169" x2="1080" y2="200" />
+        <line x1="975" y1="207" x2="1080" y2="100" />
+        <line x1="975" y1="207" x2="1080" y2="150" />
+        <line x1="975" y1="207" x2="1080" y2="200" />
+        <line x1="975" y1="245" x2="1080" y2="100" />
+        <line x1="975" y1="245" x2="1080" y2="150" />
+        <line x1="975" y1="245" x2="1080" y2="200" />
+      </g>
+
+      <!-- traveling activations -->
+      <g>
+        <circle r="3.2" fill="#ffffff" filter="url(#glow)">
+          <animateMotion dur="2.4s" begin="0.0s" repeatCount="indefinite"
+            path="M765,125 L870,93 L975,131 L1080,150" calcMode="spline" keyPoints="0;1" keyTimes="0;1"
+            keySplines="0.45 0 0.55 1" />
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.88;1"
+            dur="2.4s" begin="0.0s" repeatCount="indefinite" />
+        </circle>
+        <circle r="3.2" fill="#ffffff" filter="url(#glow)">
+          <animateMotion dur="2.4s" begin="0.6s" repeatCount="indefinite"
+            path="M765,75 L870,55 L975,93 L1080,100" calcMode="spline" keyPoints="0;1" keyTimes="0;1"
+            keySplines="0.45 0 0.55 1" />
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.88;1"
+            dur="2.4s" begin="0.6s" repeatCount="indefinite" />
+        </circle>
+        <circle r="3.2" fill="#ffffff" filter="url(#glow)">
+          <animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite"
+            path="M765,225 L870,207 L975,169 L1080,200" calcMode="spline" keyPoints="0;1" keyTimes="0;1"
+            keySplines="0.45 0 0.55 1" />
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.88;1"
+            dur="2.4s" begin="1.2s" repeatCount="indefinite" />
+        </circle>
+        <circle r="3.2" fill="#ffffff" filter="url(#glow)">
+          <animateMotion dur="2.4s" begin="1.8s" repeatCount="indefinite"
+            path="M765,175 L870,169 L975,207 L1080,150" calcMode="spline" keyPoints="0;1" keyTimes="0;1"
+            keySplines="0.45 0 0.55 1" />
+          <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.12;0.88;1"
+            dur="2.4s" begin="1.8s" repeatCount="indefinite" />
+        </circle>
+      </g>
+
+      <!-- neurons -->
+      <!-- layer 0 neurons -->
+      <g fill="#0a0a0a" stroke="#ffffff" stroke-width="1.8" stroke-opacity="0.55">
+        <circle cx="765" cy="75" r="8" />
+        <circle cx="765" cy="125" r="8" />
+        <circle cx="765" cy="175" r="8" />
+        <circle cx="765" cy="225" r="8" />
+      </g>
+      <g fill="#ffffff" filter="url(#glow)" opacity="0">
+        <animate attributeName="opacity"
+          values="0;1;0" keyTimes="0;0.3;1"
+          dur="3.6s" begin="0.0s" repeatCount="indefinite"
+          calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1" />
+        <circle cx="765" cy="75" r="6" />
+        <circle cx="765" cy="125" r="6" />
+        <circle cx="765" cy="175" r="6" />
+        <circle cx="765" cy="225" r="6" />
+      </g>
+      <!-- layer 1 neurons -->
+      <g fill="#0a0a0a" stroke="#ffffff" stroke-width="1.8" stroke-opacity="0.55">
+        <circle cx="870" cy="55" r="9" />
+        <circle cx="870" cy="93" r="9" />
+        <circle cx="870" cy="131" r="9" />
+        <circle cx="870" cy="169" r="9" />
+        <circle cx="870" cy="207" r="9" />
+        <circle cx="870" cy="245" r="9" />
+      </g>
+      <g fill="#ffffff" filter="url(#glow)" opacity="0">
+        <animate attributeName="opacity"
+          values="0;1;0" keyTimes="0;0.3;1"
+          dur="3.6s" begin="0.55s" repeatCount="indefinite"
+          calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1" />
+        <circle cx="870" cy="55" r="7" />
+        <circle cx="870" cy="93" r="7" />
+        <circle cx="870" cy="131" r="7" />
+        <circle cx="870" cy="169" r="7" />
+        <circle cx="870" cy="207" r="7" />
+        <circle cx="870" cy="245" r="7" />
+      </g>
+      <!-- layer 2 neurons -->
+      <g fill="#0a0a0a" stroke="#ffffff" stroke-width="1.8" stroke-opacity="0.55">
+        <circle cx="975" cy="55" r="9" />
+        <circle cx="975" cy="93" r="9" />
+        <circle cx="975" cy="131" r="9" />
+        <circle cx="975" cy="169" r="9" />
+        <circle cx="975" cy="207" r="9" />
+        <circle cx="975" cy="245" r="9" />
+      </g>
+      <g fill="#ffffff" filter="url(#glow)" opacity="0">
+        <animate attributeName="opacity"
+          values="0;1;0" keyTimes="0;0.3;1"
+          dur="3.6s" begin="1.1s" repeatCount="indefinite"
+          calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1" />
+        <circle cx="975" cy="55" r="7" />
+        <circle cx="975" cy="93" r="7" />
+        <circle cx="975" cy="131" r="7" />
+        <circle cx="975" cy="169" r="7" />
+        <circle cx="975" cy="207" r="7" />
+        <circle cx="975" cy="245" r="7" />
+      </g>
+      <!-- layer 3 neurons -->
+      <g fill="#0a0a0a" stroke="#ffffff" stroke-width="1.8" stroke-opacity="0.55">
+        <circle cx="1080" cy="100" r="10" />
+        <circle cx="1080" cy="150" r="10" />
+        <circle cx="1080" cy="200" r="10" />
+      </g>
+      <g fill="#ffffff" filter="url(#glow)" opacity="0">
+        <animate attributeName="opacity"
+          values="0;1;0" keyTimes="0;0.3;1"
+          dur="3.6s" begin="1.65s" repeatCount="indefinite"
+          calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1" />
+        <circle cx="1080" cy="100" r="8" />
+        <circle cx="1080" cy="150" r="8" />
+        <circle cx="1080" cy="200" r="8" />
+      </g>
+
+      <!-- output distribution (softmax) -->
+      <g>
+        <rect x="1098" y="95" height="10" rx="3" fill="#ffffff" fill-opacity="0.9" width="6">
+          <animate attributeName="width" values="6;58;30;44;6" dur="3.6s" begin="0.0s"
+            repeatCount="indefinite" calcMode="spline"
+            keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1" />
+        </rect>
+        <rect x="1098" y="145" height="10" rx="3" fill="#ffffff" fill-opacity="0.9" width="6">
+          <animate attributeName="width" values="6;24;72;18;6" dur="3.6s" begin="0.0s"
+            repeatCount="indefinite" calcMode="spline"
+            keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1" />
+        </rect>
+        <rect x="1098" y="195" height="10" rx="3" fill="#ffffff" fill-opacity="0.9" width="6">
+          <animate attributeName="width" values="6;30;20;40;6" dur="3.6s" begin="0.0s"
+            repeatCount="indefinite" calcMode="spline"
+            keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1" />
+        </rect>
+      </g>
     </g>
   </g>
 </svg>
