@@ -22,7 +22,7 @@ I've been messing with software since I was 14. I like backend systems, clean ar
 ### You can find me here
 
 <p>
-  <a href="https://www.linkedin.com/in/mikelvillota/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/linkedin.svg" width="24" height="24" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mikelvillota/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="24" height="24" alt="LinkedIn" /></a>&nbsp;
   <a href="https://x.com/Villoh_"><img src="https://cdn.simpleicons.org/x/888888" width="24" height="24" alt="X" /></a>&nbsp;
   <a href="https://stackoverflow.com/users/30111324/villoh"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="24" height="24" alt="Stack Overflow" /></a>
 </p>
