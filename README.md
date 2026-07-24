@@ -4,12 +4,25 @@
   </a>
 </p>
 
-# Hey, I'm Mikel 👋
+Building [beyondhumane.com](https://beyondhumane.com) and other things.
 
-Software engineer from Spain. I mostly build backend systems with Java, Spring and Python.
+Software Engineer from Spain. Mostly backend, but happy to work across the stack and use whatever fits the job.
 
-I've been messing around with software since I was 14. These days I'm into clean code, reliable APIs, distributed systems and automating anything boring.
+<p>
+  <img src="https://api.visitorbadge.io/api/visitors?path=Villoh&label=Profile%20views&labelColor=%23000000&countColor=%23ffffff&style=flat-square" alt="Profile views" />
+</p>
 
-Currently building [BeyondHumane](https://beyondhumane.com) and sharing some of my work here.
+I've been messing with software since I was 14. I like backend systems, clean architecture, microservices, AI, and building robust, scalable services.
 
-[LinkedIn](https://www.linkedin.com/in/mikelvillota/) · [X](https://x.com/Villoh_) · [Stack Overflow](https://stackoverflow.com/users/30111324/villoh)
+- [Visit me](https://villota.me)
+- [Resume](https://villota.me/resume)
+
+> Currently learning Go and Rust, studying AI inference and how models run in production, and exploring what artificial intelligence makes possible.
+
+### You can find me here
+
+<p>
+  <a href="https://www.linkedin.com/in/mikelvillota/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="24" height="24" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://x.com/Villoh_"><img src="https://cdn.simpleicons.org/x/888888" width="24" height="24" alt="X" /></a>&nbsp;
+  <a href="https://stackoverflow.com/users/30111324/villoh"><img src="https://cdn.simpleicons.org/stackoverflow/F58025" width="24" height="24" alt="Stack Overflow" /></a>
+</p>
