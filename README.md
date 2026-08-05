@@ -15,7 +15,7 @@ I've been messing with software since I was 14. I like backend systems, clean ar
 - [Visit me](https://villota.me)
 - [Resume](https://villota.me/resume)
 
-> Currently learning Go and Rust, studying AI inference and how models run in production, and exploring what artificial intelligence makes possible.
+> Currently learning Go and Rust, exploring AI inference and how models run in production, and discovering what artificial intelligence makes possible.
 
 </br>
 
