@@ -8,7 +8,7 @@ Building [beyondhumane.com](https://beyondhumane.com), plus a few other projects
 
 Generalist Engineer from Spain. Mostly backend, but happy to work across the stack and use whatever fits the job.
 
-I've been messing with software since I was 14. I like backend systems, AI and data. I've also done frontend, and even electronics repair, whatever the problem needs.
+I've been messing with software since I was 14. I like backend systems, AI and data. I've also done frontend, and even electronics repair.
 
 > Currently learning Rust, and discovering what artificial intelligence makes possible.
 
