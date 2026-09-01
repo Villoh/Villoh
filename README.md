@@ -4,13 +4,13 @@
   </a>
 </p>
 
-Building [beyondhumane.com](https://beyondhumane.com) and other things.
+Building [beyondhumane.com](https://beyondhumane.com), plus a few other projects.
 
 Generalist Engineer from Spain. Mostly backend, but happy to work across the stack and use whatever fits the job.
 
-I've been messing with software since I was 14. I like backend systems, clean architecture, microservices, AI, and building robust, scalable services.
+I've been messing with software since I was 14. I like backend systems, AI and data. I've also done frontend, and even electronics repair, whatever the problem needs.
 
-> Currently learning Go and Rust, exploring AI inference and how models run in production, and discovering what artificial intelligence makes possible.
+> Currently learning Rust, and discovering what artificial intelligence makes possible.
 
 ---
 
