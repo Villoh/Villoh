@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://beyondhumane.com">
-    <img src="./img/banner-dark.svg" alt="Mikel Villota" />
+    <img src="https://raw.githubusercontent.com/Villoh/Villoh/main/img/banner-dark.svg" alt="Mikel Villota" />
   </a>
 </p>
 
