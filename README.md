@@ -6,7 +6,7 @@
 
 Building [beyondhumane.com](https://beyondhumane.com) and other things.
 
-Software Engineer from Spain. Mostly backend, but happy to work across the stack and use whatever fits the job.
+Generalist Engineer from Spain. Mostly backend, but happy to work across the stack and use whatever fits the job.
 
 I've been messing with software since I was 14. I like backend systems, clean architecture, microservices, AI, and building robust, scalable services.
 
